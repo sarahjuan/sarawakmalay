@@ -1,0 +1,446 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 110.79497916666666 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Sarawak" 
+        xmin = 0 
+        xmax = 110.79497916666666 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6643446180555556 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6643446180555556 
+            xmax = 2.7065625 
+            text = "Kitak minat main game ka?" 
+        intervals [3]:
+            xmin = 2.7065625 
+            xmax = 3.7252387152777775 
+            text = "Minat" 
+        intervals [4]:
+            xmin = 3.7252387152777775 
+            xmax = 5.915603298611111 
+            text = "Game apa yang kitak slalu main?" 
+        intervals [5]:
+            xmin = 5.915603298611111 
+            xmax = 8.41486545138889 
+            text = "Kamek slalu main game Mobile Legend" 
+        intervals [6]:
+            xmin = 8.41486545138889 
+            xmax = 11.054535590277778 
+            text = "Brapa orang main dalam game ya?" 
+        intervals [7]:
+            xmin = 11.054535590277778 
+            xmax = 11.681041666666667 
+            text = "" 
+        intervals [8]:
+            xmin = 11.681041666666667 
+            xmax = 16.61469184027778 
+            text = "Setiap game ada sepuluh orang pemain kakya dibahagi kepada duak kumpulan" 
+        intervals [9]:
+            xmin = 16.61469184027778 
+            xmax = 17.6537109375 
+            text = "" 
+        intervals [10]:
+            xmin = 17.6537109375 
+            xmax = 19.20495833333333 
+            text = "Apa pengetahuan" 
+        intervals [11]:
+            xmin = 19.20495833333333 
+            xmax = 19.83414583333333 
+            text = "" 
+        intervals [12]:
+            xmin = 19.83414583333333 
+            xmax = 21.528971354166668 
+            text = "mok main game ya?" 
+        intervals [13]:
+            xmin = 21.528971354166668 
+            xmax = 26.246679687500002 
+            text = "Pengetahuan game ya kita mesti bekerjasama dengan ahli kumpulan masing-masing" 
+        intervals [14]:
+            xmin = 26.246679687500002 
+            xmax = 27.229535590277777 
+            text = "" 
+        intervals [15]:
+            xmin = 27.229535590277777 
+            xmax = 30.434657781791493 
+            text = "Apa yang kita patut polah untuk menang?" 
+        intervals [16]:
+            xmin = 30.434657781791493 
+            xmax = 37.08999632345816 
+            text = "Kita mesti musnahkan sepuluh menara pihak lawan sebelum pihak lawan musnahkan menara kita" 
+        intervals [17]:
+            xmin = 37.08999632345816 
+            xmax = 44.189825370392164 
+            text = "Brapa masa yang slalunya yang dipelukan untuk molah pesediaan main game?" 
+        intervals [18]:
+            xmin = 44.189825370392164 
+            xmax = 52.13691738428105 
+            text = "Untuk carik pemain slalunya dalam 38 saat, untuk pilih avatar dalam 50 saat." 
+        intervals [19]:
+            xmin = 52.13691738428105 
+            xmax = 53.021541666666664 
+            text = "" 
+        intervals [20]:
+            xmin = 53.021541666666664 
+            xmax = 55.268208333333334 
+            text = "Macam ney mok dapat ganjaran?" 
+        intervals [21]:
+            xmin = 55.268208333333334 
+            xmax = 56.94614583333333 
+            text = "" 
+        intervals [22]:
+            xmin = 56.94614583333333 
+            xmax = 63.47246526197573 
+            text = "Cara mok dapat ganjaran kita pelu munuh pihak lawan dan tentera pihak lawan" 
+        intervals [23]:
+            xmin = 63.47246526197573 
+            xmax = 64.165875 
+            text = "" 
+        intervals [24]:
+            xmin = 64.165875 
+            xmax = 67.05610295173996 
+            text = "Slalunya brapa lamak game tuk bah?" 
+        intervals [25]:
+            xmin = 67.05610295173996 
+            xmax = 67.757625 
+            text = "" 
+        intervals [26]:
+            xmin = 67.757625 
+            xmax = 75.4244189239622 
+            text = "Nya bergantung dengan pemain, mun pemain ya musnahkan kesemua menara pihak lawan dengan masa yang sikit maka cepatlah abis." 
+        intervals [27]:
+            xmin = 75.4244189239622 
+            xmax = 78.05349942347404 
+            text = "Kenak kitak suka main game ya?" 
+        intervals [28]:
+            xmin = 78.05349942347404 
+            xmax = 84.79308275680735 
+            text = "Kamek suka game tuk sebab dapat atur strategi pertempuran untuk berlawan dengan pihak lawan" 
+        intervals [29]:
+            xmin = 84.79308275680735 
+            xmax = 90.98062889836292 
+            text = "" 
+        intervals [30]:
+            xmin = 90.98062889836292 
+            xmax = 94.50283333333333 
+            text = "Kitak pernah kalah ka main game tuk?" 
+        intervals [31]:
+            xmin = 94.50283333333333 
+            xmax = 95.95107160669625 
+            text = "Pernah" 
+        intervals [32]:
+            xmin = 95.95107160669625 
+            xmax = 98.6749865372518 
+            text = "Tegal apa kitak kalah main game tuk?" 
+        intervals [33]:
+            xmin = 98.6749865372518 
+            xmax = 106.56427170195471 
+            text = "Kamek kalah sebab sikda kerjasama dalam kumpulan kakya pihak lawan musnah menara mekrang terlebih dolok" 
+        intervals [34]:
+            xmin = 106.56427170195471 
+            xmax = 109.65324739598603 
+            text = "sebelum mekrang musnah menara sidak ya" 
+        intervals [35]:
+            xmin = 109.65324739598603 
+            xmax = 110.79497916666666 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Malay" 
+        xmin = 0 
+        xmax = 110.79497916666666 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6643446180555556 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6643446180555556 
+            xmax = 2.7065625 
+            text = "Kamu minat main game kah?" 
+        intervals [3]:
+            xmin = 2.7065625 
+            xmax = 3.7252387152777775 
+            text = "Minat" 
+        intervals [4]:
+            xmin = 3.7252387152777775 
+            xmax = 5.915603298611111 
+            text = "Game apa yang kamu selalu main?" 
+        intervals [5]:
+            xmin = 5.915603298611111 
+            xmax = 8.41486545138889 
+            text = "Saya slalu main game Mobile Legends" 
+        intervals [6]:
+            xmin = 8.41486545138889 
+            xmax = 11.054535590277778 
+            text = "Berapa orang yang bermain dalam game tu?" 
+        intervals [7]:
+            xmin = 11.054535590277778 
+            xmax = 11.681041666666667 
+            text = "" 
+        intervals [8]:
+            xmin = 11.681041666666667 
+            xmax = 16.61469184027778 
+            text = "Setiap game ada sepuluh orang pemain dan dibahagi kepada dua kumpulan" 
+        intervals [9]:
+            xmin = 16.61469184027778 
+            xmax = 17.6537109375 
+            text = "" 
+        intervals [10]:
+            xmin = 17.6537109375 
+            xmax = 19.20495833333333 
+            text = "Apa pengetahuan" 
+        intervals [11]:
+            xmin = 19.20495833333333 
+            xmax = 19.83414583333333 
+            text = "" 
+        intervals [12]:
+            xmin = 19.83414583333333 
+            xmax = 21.528971354166668 
+            text = "untuk main game tu?" 
+        intervals [13]:
+            xmin = 21.528971354166668 
+            xmax = 26.246679687500002 
+            text = "Pengetahuan game ini kita mesti bekerjasama dengan ahli kumpulan masing-masing" 
+        intervals [14]:
+            xmin = 26.246679687500002 
+            xmax = 27.229535590277777 
+            text = "" 
+        intervals [15]:
+            xmin = 27.229535590277777 
+            xmax = 30.434657781791493 
+            text = "Apa yang kita patut buat untuk menang?" 
+        intervals [16]:
+            xmin = 30.434657781791493 
+            xmax = 37.08999632345816 
+            text = "Kita mesti musnahkan sepuluh menara pihak lawan sebelum pihak lawan musnahkan menara kita" 
+        intervals [17]:
+            xmin = 37.08999632345816 
+            xmax = 44.189825370392164 
+            text = "Berapa masa yang selalunya yang diperlukan untuk buat persediaan main game?" 
+        intervals [18]:
+            xmin = 44.189825370392164 
+            xmax = 52.13691738428105 
+            text = "Untuk mencari pemain selalunya dalam 38 saat, untuk pilih avatar dalam 50 saat." 
+        intervals [19]:
+            xmin = 52.13691738428105 
+            xmax = 53.021541666666664 
+            text = "" 
+        intervals [20]:
+            xmin = 53.021541666666664 
+            xmax = 55.268208333333334 
+            text = "Macam mana nak dapat ganjaran?" 
+        intervals [21]:
+            xmin = 55.268208333333334 
+            xmax = 56.94614583333333 
+            text = "" 
+        intervals [22]:
+            xmin = 56.94614583333333 
+            xmax = 63.47246526197573 
+            text = "Cara nak dapat ganjaran kita perlu membunuh pihak lawan dan tentera pihak lawan" 
+        intervals [23]:
+            xmin = 63.47246526197573 
+            xmax = 64.165875 
+            text = "" 
+        intervals [24]:
+            xmin = 64.165875 
+            xmax = 67.05610295173996 
+            text = "Selalunya berapa lama game ini?" 
+        intervals [25]:
+            xmin = 67.05610295173996 
+            xmax = 67.757625 
+            text = "" 
+        intervals [26]:
+            xmin = 67.757625 
+            xmax = 75.4244189239622 
+            text = "itu bergantung dengan pemain, kalau pemain musnahkan kesemua menara pihak lawan dengan masa yang sikit maka cepatlah habis." 
+        intervals [27]:
+            xmin = 75.4244189239622 
+            xmax = 78.05349942347404 
+            text = "Kenapa kamu suka main game tu?" 
+        intervals [28]:
+            xmin = 78.05349942347404 
+            xmax = 84.79308275680735 
+            text = "Saya suka game ini sebab dapat atur strategi pertempuran untuk berlawan dengan pihak lawan" 
+        intervals [29]:
+            xmin = 84.79308275680735 
+            xmax = 90.98062889836292 
+            text = "" 
+        intervals [30]:
+            xmin = 90.98062889836292 
+            xmax = 94.50283333333333 
+            text = "Kamu pernah kalah ke main game ini?" 
+        intervals [31]:
+            xmin = 94.50283333333333 
+            xmax = 95.95107160669625 
+            text = "Pernah" 
+        intervals [32]:
+            xmin = 95.95107160669625 
+            xmax = 98.6749865372518 
+            text = "Sebab apa kamu kalah main game ini?" 
+        intervals [33]:
+            xmin = 98.6749865372518 
+            xmax = 106.56427170195471 
+            text = "Saya kalah sebab tiada kerjasama dalam kumpulan dan pihak lawan musnah menara kami terlebih dahulu" 
+        intervals [34]:
+            xmin = 106.56427170195471 
+            xmax = 109.65324739598603 
+            text = "sebelum kami musnahkan menara mereka" 
+        intervals [35]:
+            xmin = 109.65324739598603 
+            xmax = 110.79497916666666 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 110.79497916666666 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6643446180555556 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6643446180555556 
+            xmax = 2.7065625 
+            text = "Interviewer" 
+        intervals [3]:
+            xmin = 2.7065625 
+            xmax = 3.7252387152777775 
+            text = "Denien" 
+        intervals [4]:
+            xmin = 3.7252387152777775 
+            xmax = 5.915603298611111 
+            text = "Interviewer" 
+        intervals [5]:
+            xmin = 5.915603298611111 
+            xmax = 8.41486545138889 
+            text = "Denien" 
+        intervals [6]:
+            xmin = 8.41486545138889 
+            xmax = 11.054535590277778 
+            text = "Interviewer" 
+        intervals [7]:
+            xmin = 11.054535590277778 
+            xmax = 11.681041666666667 
+            text = "" 
+        intervals [8]:
+            xmin = 11.681041666666667 
+            xmax = 16.61469184027778 
+            text = "Denien" 
+        intervals [9]:
+            xmin = 16.61469184027778 
+            xmax = 17.6537109375 
+            text = "" 
+        intervals [10]:
+            xmin = 17.6537109375 
+            xmax = 19.20495833333333 
+            text = "Interviewer" 
+        intervals [11]:
+            xmin = 19.20495833333333 
+            xmax = 19.83414583333333 
+            text = "" 
+        intervals [12]:
+            xmin = 19.83414583333333 
+            xmax = 21.528971354166668 
+            text = "Interviewer" 
+        intervals [13]:
+            xmin = 21.528971354166668 
+            xmax = 26.246679687500002 
+            text = "Denien" 
+        intervals [14]:
+            xmin = 26.246679687500002 
+            xmax = 27.229535590277777 
+            text = "" 
+        intervals [15]:
+            xmin = 27.229535590277777 
+            xmax = 30.434657781791493 
+            text = "Interviewer" 
+        intervals [16]:
+            xmin = 30.434657781791493 
+            xmax = 37.08999632345816 
+            text = "Denien" 
+        intervals [17]:
+            xmin = 37.08999632345816 
+            xmax = 44.189825370392164 
+            text = "Interviewer" 
+        intervals [18]:
+            xmin = 44.189825370392164 
+            xmax = 52.13691738428105 
+            text = "Denien" 
+        intervals [19]:
+            xmin = 52.13691738428105 
+            xmax = 53.021541666666664 
+            text = "" 
+        intervals [20]:
+            xmin = 53.021541666666664 
+            xmax = 55.268208333333334 
+            text = "Interviewer" 
+        intervals [21]:
+            xmin = 55.268208333333334 
+            xmax = 56.94614583333333 
+            text = "" 
+        intervals [22]:
+            xmin = 56.94614583333333 
+            xmax = 63.47246526197573 
+            text = "Denien" 
+        intervals [23]:
+            xmin = 63.47246526197573 
+            xmax = 64.165875 
+            text = "" 
+        intervals [24]:
+            xmin = 64.165875 
+            xmax = 67.05610295173996 
+            text = "Interviewer" 
+        intervals [25]:
+            xmin = 67.05610295173996 
+            xmax = 67.757625 
+            text = "" 
+        intervals [26]:
+            xmin = 67.757625 
+            xmax = 75.4244189239622 
+            text = "Denien" 
+        intervals [27]:
+            xmin = 75.4244189239622 
+            xmax = 78.05349942347404 
+            text = "Interviewer" 
+        intervals [28]:
+            xmin = 78.05349942347404 
+            xmax = 84.79308275680735 
+            text = "Denien" 
+        intervals [29]:
+            xmin = 84.79308275680735 
+            xmax = 90.98062889836292 
+            text = "" 
+        intervals [30]:
+            xmin = 90.98062889836292 
+            xmax = 94.50283333333333 
+            text = "Interviewer" 
+        intervals [31]:
+            xmin = 94.50283333333333 
+            xmax = 95.95107160669625 
+            text = "Denien" 
+        intervals [32]:
+            xmin = 95.95107160669625 
+            xmax = 98.6749865372518 
+            text = "Interviewer" 
+        intervals [33]:
+            xmin = 98.6749865372518 
+            xmax = 106.56427170195471 
+            text = "Denien" 
+        intervals [34]:
+            xmin = 106.56427170195471 
+            xmax = 109.65324739598603 
+            text = "Interviewer" 
+        intervals [35]:
+            xmin = 109.65324739598603 
+            xmax = 110.79497916666666 
+            text = "" 

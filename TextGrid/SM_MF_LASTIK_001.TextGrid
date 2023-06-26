@@ -1,0 +1,446 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 102.8266875 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Sarawak" 
+        xmin = 0 
+        xmax = 102.8266875 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.4157254037673477 
+            text = "" 
+        intervals [2]:
+            xmin = 1.4157254037673477 
+            xmax = 4.32241329815592 
+            text = "" 
+        intervals [3]:
+            xmin = 4.32241329815592 
+            xmax = 4.967909723456318 
+            text = "" 
+        intervals [4]:
+            xmin = 4.967909723456318 
+            xmax = 7.011981736907577 
+            text = "Waalaikummussalam wbt." 
+        intervals [5]:
+            xmin = 7.011981736907577 
+            xmax = 7.549895424657909 
+            text = "" 
+        intervals [6]:
+            xmin = 7.549895424657909 
+            xmax = 13.466945989911554 
+            text = "" 
+        intervals [7]:
+            xmin = 13.466945989911554 
+            xmax = 14.865521578062417 
+            text = "Melastik burung." 
+        intervals [8]:
+            xmin = 14.865521578062417 
+            xmax = 20.459823930665863 
+            text = "" 
+        intervals [9]:
+            xmin = 20.459823930665863 
+            xmax = 29.619565020299206 
+            text = "Kito kenak ipak burung yo inggap dolok. Lepas yo kito nginci burung yo. Baruk kito nyetit burung yo." 
+        intervals [10]:
+            xmin = 29.619565020299206 
+            xmax = 29.996104601724436 
+            text = "" 
+        intervals [11]:
+            xmin = 29.996104601724436 
+            xmax = 35.482824216777814 
+            text = "" 
+        intervals [12]:
+            xmin = 35.482824216777814 
+            xmax = 36.39727748595338 
+            text = "Sekdo." 
+        intervals [13]:
+            xmin = 36.39727748595338 
+            xmax = 37.595481007074454 
+            text = "Sekdo ah." 
+        intervals [14]:
+            xmin = 37.595481007074454 
+            xmax = 41.34608341325643 
+            text = "" 
+        intervals [15]:
+            xmin = 41.34608341325643 
+            xmax = 42.26053668243199 
+            text = "Sekdo." 
+        intervals [16]:
+            xmin = 42.26053668243199 
+            xmax = 50.2465667330204 
+            text = "" 
+        intervals [17]:
+            xmin = 50.2465667330204 
+            xmax = 60.73588364415186 
+            text = "Permainan tuk boleh main secara sorang-sorang atau rami-rami. Pemenang akan dikira daripada jumlah burung yang mati." 
+        intervals [18]:
+            xmin = 60.73588364415186 
+            xmax = 61.75791965087749 
+            text = "" 
+        intervals [19]:
+            xmin = 61.75791965087749 
+            xmax = 63.47772617856834 
+            text = "" 
+        intervals [20]:
+            xmin = 63.47772617856834 
+            xmax = 65.19904997936939 
+            text = "" 
+        intervals [21]:
+            xmin = 65.19904997936939 
+            xmax = 68.74928031852157 
+            text = "" 
+        intervals [22]:
+            xmin = 68.74928031852157 
+            xmax = 69.2871940062719 
+            text = "" 
+        intervals [23]:
+            xmin = 69.2871940062719 
+            xmax = 73.04031820249315 
+            text = "Kayu, getah dan batu atau bigik getah." 
+        intervals [24]:
+            xmin = 73.04031820249315 
+            xmax = 73.41685778391839 
+            text = "" 
+        intervals [25]:
+            xmin = 73.41685778391839 
+            xmax = 79.11874287407187 
+            text = "" 
+        intervals [26]:
+            xmin = 79.11874287407187 
+            xmax = 80.08698751202246 
+            text = "" 
+        intervals [27]:
+            xmin = 80.08698751202246 
+            xmax = 81.34482759369376 
+            text = "Waktu bahri." 
+        intervals [28]:
+            xmin = 81.34482759369376 
+            xmax = 81.82894991196852 
+            text = "" 
+        intervals [29]:
+            xmin = 81.82894991196852 
+            xmax = 82.93281150140055 
+            text = "Bahri..." 
+        intervals [30]:
+            xmin = 82.93281150140055 
+            xmax = 88.60666236781503 
+            text = "" 
+        intervals [31]:
+            xmin = 88.60666236781503 
+            xmax = 88.92941057999819 
+            text = "" 
+        intervals [32]:
+            xmin = 88.92941057999819 
+            xmax = 93.55546828795693 
+            text = "Sebab permainan tuk jimat belanjo dan senang dicarik." 
+        intervals [33]:
+            xmin = 93.55546828795693 
+            xmax = 98.77323105158479 
+            text = "" 
+        intervals [34]:
+            xmin = 98.77323105158479 
+            xmax = 99.09597926376796 
+            text = "" 
+        intervals [35]:
+            xmin = 99.09597926376796 
+            xmax = 102.8266875 
+            text = "Waalaikummussalam wbt." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Malay" 
+        xmin = 0 
+        xmax = 102.8266875 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.4157254037673477 
+            text = "" 
+        intervals [2]:
+            xmin = 1.4157254037673477 
+            xmax = 4.32241329815592 
+            text = "Assalammualaikum pak cik, kita bertemu kembali." 
+        intervals [3]:
+            xmin = 4.32241329815592 
+            xmax = 4.967909723456318 
+            text = "" 
+        intervals [4]:
+            xmin = 4.967909723456318 
+            xmax = 7.011981736907577 
+            text = "Waalaikummussalam wbt." 
+        intervals [5]:
+            xmin = 7.011981736907577 
+            xmax = 7.549895424657909 
+            text = "" 
+        intervals [6]:
+            xmin = 7.549895424657909 
+            xmax = 13.466945989911554 
+            text = "Ok. Soalan pertama saya, apakah permainan yang pernah anda mainkan dahulu?" 
+        intervals [7]:
+            xmin = 13.466945989911554 
+            xmax = 14.865521578062417 
+            text = "Melastik burung." 
+        intervals [8]:
+            xmin = 14.865521578062417 
+            xmax = 20.459823930665863 
+            text = "Melastik burung... ok, bagaimanakah permainan itu dimainkan?" 
+        intervals [9]:
+            xmin = 20.459823930665863 
+            xmax = 29.619565020299206 
+            text = "Lastik tersebut dibidik ke arah burung yang disasarkan." 
+        intervals [10]:
+            xmin = 29.619565020299206 
+            xmax = 29.996104601724436 
+            text = "" 
+        intervals [11]:
+            xmin = 29.996104601724436 
+            xmax = 35.482824216777814 
+            text = "ohh macam tu... Adakah permainan tersebut mempunyai peraturan, pakcik?" 
+        intervals [12]:
+            xmin = 35.482824216777814 
+            xmax = 36.39727748595338 
+            text = "" 
+        intervals [13]:
+            xmin = 36.39727748595338 
+            xmax = 37.595481007074454 
+            text = "Tidak." 
+        intervals [14]:
+            xmin = 37.595481007074454 
+            xmax = 41.34608341325643 
+            text = "Ok. Adakah permainan tersebut mempunyai masa yang terhad?" 
+        intervals [15]:
+            xmin = 41.34608341325643 
+            xmax = 42.26053668243199 
+            text = "Tidak." 
+        intervals [16]:
+            xmin = 42.26053668243199 
+            xmax = 50.2465667330204 
+            text = "ohh.. takpa. Pakcik, bagaimanakah cara untuk menentukan pemenang bagi permainan lastik burung ini? " 
+        intervals [17]:
+            xmin = 50.2465667330204 
+            xmax = 60.73588364415186 
+            text = "Permainan ini boleh dimainkan secara berseorangan atau berkumpulan untuk memudahkan pencarian pemenang hasil daripada jumlah burung yang terkorban." 
+        intervals [18]:
+            xmin = 60.73588364415186 
+            xmax = 61.75791965087749 
+            text = "" 
+        intervals [19]:
+            xmin = 61.75791965087749 
+            xmax = 63.47772617856834 
+            text = "oh macam tu" 
+        intervals [20]:
+            xmin = 63.47772617856834 
+            xmax = 65.19904997936939 
+            text = "" 
+        intervals [21]:
+            xmin = 65.19904997936939 
+            xmax = 68.74928031852157 
+            text = "Alat apa digunakan untuk membuat lastik burung tu pakcik?" 
+        intervals [22]:
+            xmin = 68.74928031852157 
+            xmax = 69.2871940062719 
+            text = "" 
+        intervals [23]:
+            xmin = 69.2871940062719 
+            xmax = 73.04031820249315 
+            text = "Kayu, getah dan batu atau biji getah." 
+        intervals [24]:
+            xmin = 73.04031820249315 
+            xmax = 73.41685778391839 
+            text = "" 
+        intervals [25]:
+            xmin = 73.41685778391839 
+            xmax = 79.11874287407187 
+            text = "Permainan ni selalu pakcik akan main waktu bila?" 
+        intervals [26]:
+            xmin = 79.11874287407187 
+            xmax = 80.08698751202246 
+            text = "" 
+        intervals [27]:
+            xmin = 80.08698751202246 
+            xmax = 81.34482759369376 
+            text = "Pada waktu petang." 
+        intervals [28]:
+            xmin = 81.34482759369376 
+            xmax = 81.82894991196852 
+            text = "" 
+        intervals [29]:
+            xmin = 81.82894991196852 
+            xmax = 82.93281150140055 
+            text = "" 
+        intervals [30]:
+            xmin = 82.93281150140055 
+            xmax = 88.60666236781503 
+            text = "Baiklah pak cik, ini soalan yang terakhir. Mengapakah pak cik menggemari permainan tersebut?" 
+        intervals [31]:
+            xmin = 88.60666236781503 
+            xmax = 88.92941057999819 
+            text = "" 
+        intervals [32]:
+            xmin = 88.92941057999819 
+            xmax = 93.55546828795693 
+            text = "Permainan ini jimat belanja dan mudah didapati." 
+        intervals [33]:
+            xmin = 93.55546828795693 
+            xmax = 98.77323105158479 
+            text = "Macam tu.. Baiklah pak cik, itu sahaja soalan saya,sekian terima kasih. Assalammulaikum." 
+        intervals [34]:
+            xmin = 98.77323105158479 
+            xmax = 99.09597926376796 
+            text = "" 
+        intervals [35]:
+            xmin = 99.09597926376796 
+            xmax = 102.8266875 
+            text = "Waalaikummussalam wbt." 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 102.8266875 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.4157254037673477 
+            text = "" 
+        intervals [2]:
+            xmin = 1.4157254037673477 
+            xmax = 4.32241329815592 
+            text = "S1" 
+        intervals [3]:
+            xmin = 4.32241329815592 
+            xmax = 4.967909723456318 
+            text = "" 
+        intervals [4]:
+            xmin = 4.967909723456318 
+            xmax = 7.011981736907577 
+            text = "S2" 
+        intervals [5]:
+            xmin = 7.011981736907577 
+            xmax = 7.549895424657909 
+            text = "" 
+        intervals [6]:
+            xmin = 7.549895424657909 
+            xmax = 13.466945989911554 
+            text = "S1" 
+        intervals [7]:
+            xmin = 13.466945989911554 
+            xmax = 14.865521578062417 
+            text = "S2" 
+        intervals [8]:
+            xmin = 14.865521578062417 
+            xmax = 20.459823930665863 
+            text = "S1" 
+        intervals [9]:
+            xmin = 20.459823930665863 
+            xmax = 29.619565020299206 
+            text = "S2" 
+        intervals [10]:
+            xmin = 29.619565020299206 
+            xmax = 29.996104601724436 
+            text = "" 
+        intervals [11]:
+            xmin = 29.996104601724436 
+            xmax = 35.482824216777814 
+            text = "S1" 
+        intervals [12]:
+            xmin = 35.482824216777814 
+            xmax = 36.39727748595338 
+            text = "" 
+        intervals [13]:
+            xmin = 36.39727748595338 
+            xmax = 37.595481007074454 
+            text = "S2" 
+        intervals [14]:
+            xmin = 37.595481007074454 
+            xmax = 41.34608341325643 
+            text = "S1" 
+        intervals [15]:
+            xmin = 41.34608341325643 
+            xmax = 42.26053668243199 
+            text = "S2" 
+        intervals [16]:
+            xmin = 42.26053668243199 
+            xmax = 50.2465667330204 
+            text = "S1" 
+        intervals [17]:
+            xmin = 50.2465667330204 
+            xmax = 60.73588364415186 
+            text = "S2" 
+        intervals [18]:
+            xmin = 60.73588364415186 
+            xmax = 61.75791965087749 
+            text = "" 
+        intervals [19]:
+            xmin = 61.75791965087749 
+            xmax = 63.47772617856834 
+            text = "S1" 
+        intervals [20]:
+            xmin = 63.47772617856834 
+            xmax = 65.19904997936939 
+            text = "" 
+        intervals [21]:
+            xmin = 65.19904997936939 
+            xmax = 68.74928031852157 
+            text = "S1" 
+        intervals [22]:
+            xmin = 68.74928031852157 
+            xmax = 69.2871940062719 
+            text = "" 
+        intervals [23]:
+            xmin = 69.2871940062719 
+            xmax = 73.04031820249315 
+            text = "S2" 
+        intervals [24]:
+            xmin = 73.04031820249315 
+            xmax = 73.41685778391839 
+            text = "" 
+        intervals [25]:
+            xmin = 73.41685778391839 
+            xmax = 79.11874287407187 
+            text = "S1" 
+        intervals [26]:
+            xmin = 79.11874287407187 
+            xmax = 80.08698751202246 
+            text = "" 
+        intervals [27]:
+            xmin = 80.08698751202246 
+            xmax = 81.34482759369376 
+            text = "S2" 
+        intervals [28]:
+            xmin = 81.34482759369376 
+            xmax = 81.82894991196852 
+            text = "" 
+        intervals [29]:
+            xmin = 81.82894991196852 
+            xmax = 82.93281150140055 
+            text = "S1" 
+        intervals [30]:
+            xmin = 82.93281150140055 
+            xmax = 88.60666236781503 
+            text = "S1" 
+        intervals [31]:
+            xmin = 88.60666236781503 
+            xmax = 88.92941057999819 
+            text = "" 
+        intervals [32]:
+            xmin = 88.92941057999819 
+            xmax = 93.55546828795693 
+            text = "S2" 
+        intervals [33]:
+            xmin = 93.55546828795693 
+            xmax = 98.77323105158479 
+            text = "S1" 
+        intervals [34]:
+            xmin = 98.77323105158479 
+            xmax = 99.09597926376796 
+            text = "" 
+        intervals [35]:
+            xmin = 99.09597926376796 
+            xmax = 102.8266875 
+            text = "S2" 

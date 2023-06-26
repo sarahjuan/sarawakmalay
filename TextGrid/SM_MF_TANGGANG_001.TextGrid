@@ -1,0 +1,530 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 166.85897916666667 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Sarawak" 
+        xmin = 0 
+        xmax = 166.85897916666667 
+        intervals: size = 42 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5800998263888889 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5800998263888889 
+            xmax = 2.321158854166667 
+            text = "Apa nama kitak?" 
+        intervals [3]:
+            xmin = 2.321158854166667 
+            xmax = 4.595768229166667 
+            text = "Nama kamek Mohamad Denien" 
+        intervals [4]:
+            xmin = 4.595768229166667 
+            xmax = 6.589561631944444 
+            text = "Brapa umo kitak?" 
+        intervals [5]:
+            xmin = 6.589561631944444 
+            xmax = 9.088823784722223 
+            text = "Umo kamek enam belas taun" 
+        intervals [6]:
+            xmin = 9.088823784722223 
+            xmax = 11.307269965277778 
+            text = "Kitak sekolah di sine?" 
+        intervals [7]:
+            xmin = 11.307269965277778 
+            xmax = 15.266775173611112 
+            text = "Kamek bersekolah di Kolej Vokasional Kuching" 
+        intervals [8]:
+            xmin = 15.266775173611112 
+            xmax = 18.29958767361111 
+            text = "kitak tinggal rah sine?" 
+        intervals [9]:
+            xmin = 18.29958767361111 
+            xmax = 23.129622395833334 
+            text = "kamek tinggal di Taman Sejoli area Petra Jaya" 
+        intervals [10]:
+            xmin = 23.129622395833334 
+            xmax = 24.505620659722222 
+            text = "" 
+        intervals [11]:
+            xmin = 24.505620659722222 
+            xmax = 28.717860243055558 
+            text = "Boleh kamek tanyak, cerita tradisional apa yang kitak tauk?" 
+        intervals [12]:
+            xmin = 28.717860243055558 
+            xmax = 29.77134101026047 
+            text = "" 
+        intervals [13]:
+            xmin = 29.77134101026047 
+            xmax = 33.87125420470491 
+            text = "Kamek tauk cerita kesah Si Tanggang" 
+        intervals [14]:
+            xmin = 33.87125420470491 
+            xmax = 36.87598510748269 
+            text = "Siapa watak dalam cerita ya?" 
+        intervals [15]:
+            xmin = 36.87598510748269 
+            xmax = 45.46895385748269 
+            text = "Watak dalam cerita ya adalah Tanggang, mak Tanggang, isteri Tanggang dengan Jelutong" 
+        intervals [16]:
+            xmin = 45.46895385748269 
+            xmax = 47.8839712185938 
+            text = "Macam ney jalan cerita ya?" 
+        intervals [17]:
+            xmin = 47.8839712185938 
+            xmax = 53.33066089329601 
+            text = "Nya macam tok, kesah tok tentang sorang anak laki yang bernama Tanggang." 
+        intervals [18]:
+            xmin = 53.33066089329601 
+            xmax = 57.20592130996268 
+            text = "Nyatok tinggal bersama ngan maknya di sebuah kampong." 
+        intervals [19]:
+            xmin = 57.20592130996268 
+            xmax = 63.468398468127134 
+            text = "Pada suatu ari, ada sebuah kapal perdagangan berlaboh di tepi pante kampong sidaknya." 
+        intervals [20]:
+            xmin = 63.468398468127134 
+            xmax = 69.64238232212827 
+            text = "Tanggang padah dengan maknya, nya mok jadi anak kapal ya sebab maok ngubah nasib." 
+        intervals [21]:
+            xmin = 69.64238232212827 
+            xmax = 77.60109447587273 
+            text = "Maknya berat ati nak melepasnya tapi tanggang berjanji yang nya akan pulang ngembak harta pake nya. " 
+        intervals [22]:
+            xmin = 77.60109447587273 
+            xmax = 80.83047814958958 
+            text = "Tapi, maknya tetap sik merik izin. " 
+        intervals [23]:
+            xmin = 80.83047814958958 
+            xmax = 84.67765696088706 
+            text = "Jadi, Tanggang lari tanpa pengetahuan maknya." 
+        intervals [24]:
+            xmin = 84.67765696088706 
+            xmax = 86.7588181822828 
+            text = "Selepas beberapa tahun" 
+        intervals [25]:
+            xmin = 86.7588181822828 
+            xmax = 90.91489456237056 
+            text = "nya nikah dengan anak Sultan. Sejaknya jadi nakhoda ya" 
+        intervals [26]:
+            xmin = 90.91489456237056 
+            xmax = 94.11619663892466 
+            text = "Si Tanggang dengan isterinya pegi berlayar di laut." 
+        intervals [27]:
+            xmin = 94.11619663892466 
+            xmax = 95.74492927436447 
+            text = "Dalam perjalanan" 
+        intervals [28]:
+            xmin = 95.74492927436447 
+            xmax = 101.4409482332067 
+            text = "bekalan minuman dah habis, jadi terpaksa sidaknya carik tempat perhentian. " 
+        intervals [29]:
+            xmin = 101.4409482332067 
+            xmax = 106.04633016789856 
+            text = "Tiba-tiba, ada seorang penjual buah bernama Jelutong." 
+        intervals [30]:
+            xmin = 106.04633016789856 
+            xmax = 107.8997155806404 
+            text = "kenal dengan Si Tanggang tok." 
+        intervals [31]:
+            xmin = 107.8997155806404 
+            xmax = 112.1681183493792 
+            text = "jadi Jelutong berlari berjumpa dengan mak Tanggang padah" 
+        intervals [32]:
+            xmin = 112.1681183493792 
+            xmax = 114.13383015077207 
+            text = "Si Tanggang tok dah balit" 
+        intervals [33]:
+            xmin = 114.13383015077207 
+            xmax = 122.3180383795111 
+            text = "Mak Tanggang senang hati nak jumpa anaknya tapi Si Tanggang sik ngaku yang ya adalah maknya sebab malu" 
+        intervals [34]:
+            xmin = 122.3180383795111 
+            xmax = 127.09190989717949 
+            text = "Kakya, maknya berdoa supaya berik petunjuk" 
+        intervals [35]:
+            xmin = 127.09190989717949 
+            xmax = 135.79720501763362 
+            text = "tiba-tiba, angin bertiup kencang, laut berombak. Si Tanggang dan isteri serta anak kapal menjadi batu" 
+        intervals [36]:
+            xmin = 135.79720501763362 
+            xmax = 137.70675362470098 
+            text = "" 
+        intervals [37]:
+            xmin = 137.70675362470098 
+            xmax = 142.03075613817353 
+            text = "Apa pengajaran yang kitak dapat dari cerita tok?" 
+        intervals [38]:
+            xmin = 142.03075613817353 
+            xmax = 150.93262243876694 
+            text = "Pengajaran yang kamek dapat dari cerita tok adalah kita wajib menghormati ibu kita yang dah banyak berjasa untuk kita" 
+        intervals [39]:
+            xmin = 150.93262243876694 
+            xmax = 155.66403561398474 
+            text = "Apa yang kitak paling ingat tentang cerita ya tek?" 
+        intervals [40]:
+            xmin = 155.66403561398474 
+            xmax = 161.61733421248883 
+            text = "Apa yang kamek paling ingat tentang cerita tok adalah bila mak Tanggang berdoa" 
+        intervals [41]:
+            xmin = 161.61733421248883 
+            xmax = 166.36312413299447 
+            text = "mintak petunjuk kakya serta merta anaknya disumpah jadi batu" 
+        intervals [42]:
+            xmin = 166.36312413299447 
+            xmax = 166.85897916666667 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Maly" 
+        xmin = 0 
+        xmax = 166.85897916666667 
+        intervals: size = 42 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5800998263888889 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5800998263888889 
+            xmax = 2.321158854166667 
+            text = "Apa nama kamu?" 
+        intervals [3]:
+            xmin = 2.321158854166667 
+            xmax = 4.595768229166667 
+            text = "Nama saya Mohamad Denien" 
+        intervals [4]:
+            xmin = 4.595768229166667 
+            xmax = 6.589561631944444 
+            text = "Brapa umur kitak?" 
+        intervals [5]:
+            xmin = 6.589561631944444 
+            xmax = 9.088823784722223 
+            text = "Umur saya enam belas tahun" 
+        intervals [6]:
+            xmin = 9.088823784722223 
+            xmax = 11.307269965277778 
+            text = "Kamu bersekolah di mana?" 
+        intervals [7]:
+            xmin = 11.307269965277778 
+            xmax = 15.266775173611112 
+            text = "Saya bersekolah di Kolej Vokasional Kuching" 
+        intervals [8]:
+            xmin = 15.266775173611112 
+            xmax = 18.29958767361111 
+            text = "kamu tinggal di mana?" 
+        intervals [9]:
+            xmin = 18.29958767361111 
+            xmax = 23.129622395833334 
+            text = "saya tinggal di Taman Sejoli area Petra Jaya" 
+        intervals [10]:
+            xmin = 23.129622395833334 
+            xmax = 24.505620659722222 
+            text = "" 
+        intervals [11]:
+            xmin = 24.505620659722222 
+            xmax = 28.717860243055558 
+            text = "Boleh saya tanya, cerita tradisional apa yang kamu tahu?" 
+        intervals [12]:
+            xmin = 28.717860243055558 
+            xmax = 29.77134101026047 
+            text = "" 
+        intervals [13]:
+            xmin = 29.77134101026047 
+            xmax = 33.87125420470491 
+            text = "Saya tahu cerita kisah Si Tanggang" 
+        intervals [14]:
+            xmin = 33.87125420470491 
+            xmax = 36.87598510748269 
+            text = "Siapa watak dalam cerita itu?" 
+        intervals [15]:
+            xmin = 36.87598510748269 
+            xmax = 45.46895385748269 
+            text = "Watak dalam cerita ini adalah Tanggang, mak Tanggang, isteri Tanggang dengan Jelutong" 
+        intervals [16]:
+            xmin = 45.46895385748269 
+            xmax = 47.8839712185938 
+            text = "Macam mana jalan ceritanya?" 
+        intervals [17]:
+            xmin = 47.8839712185938 
+            xmax = 53.33066089329601 
+            text = "Ceritanya macam ini, kisah ini tentang seorang anak lelaki yang bernama Tanggang." 
+        intervals [18]:
+            xmin = 53.33066089329601 
+            xmax = 57.20592130996268 
+            text = "Dia tinggal bersama dengan maknya di sebuah kampung." 
+        intervals [19]:
+            xmin = 57.20592130996268 
+            xmax = 63.468398468127134 
+            text = "Pada suatu hari, ada sebuah kapal perdagangan berlabuh di tepi pantai kampung mereka." 
+        intervals [20]:
+            xmin = 63.468398468127134 
+            xmax = 69.64238232212827 
+            text = "Tanggang bertahu maknya, dia nak jadi anak kapal itu sebab mahu mengubah nasib." 
+        intervals [21]:
+            xmin = 69.64238232212827 
+            xmax = 77.60109447587273 
+            text = "Maknya berat hati nak melepasnya tapi tanggang berjanji yang dia akan pulang membawa harta untuk ibunya. " 
+        intervals [22]:
+            xmin = 77.60109447587273 
+            xmax = 80.83047814958958 
+            text = "Tapi, maknya tetap tidak memberi izin. " 
+        intervals [23]:
+            xmin = 80.83047814958958 
+            xmax = 84.67765696088706 
+            text = "Jadi, Tanggang lari tanpa pengetahuan maknya." 
+        intervals [24]:
+            xmin = 84.67765696088706 
+            xmax = 86.7588181822828 
+            text = "Selepas beberapa tahun" 
+        intervals [25]:
+            xmin = 86.7588181822828 
+            xmax = 90.91489456237056 
+            text = "dia berkahwin dengan anak Sultan. Sejaknya jadi nakhoda" 
+        intervals [26]:
+            xmin = 90.91489456237056 
+            xmax = 94.11619663892466 
+            text = "Si Tanggang dengan isterinya pergi berlayar di laut." 
+        intervals [27]:
+            xmin = 94.11619663892466 
+            xmax = 95.74492927436447 
+            text = "Dalam perjalanan" 
+        intervals [28]:
+            xmin = 95.74492927436447 
+            xmax = 101.4409482332067 
+            text = "bekalan minuman dah habis, jadi terpaksa mereka mencari tempat perhentian. " 
+        intervals [29]:
+            xmin = 101.4409482332067 
+            xmax = 106.04633016789856 
+            text = "Tiba-tiba, ada seorang penjual buah bernama Jelutong." 
+        intervals [30]:
+            xmin = 106.04633016789856 
+            xmax = 107.8997155806404 
+            text = "kenalan Si Tanggang." 
+        intervals [31]:
+            xmin = 107.8997155806404 
+            xmax = 112.1681183493792 
+            text = "jadi Jelutong berlari berjumpa dengan mak Tanggang dan berkata" 
+        intervals [32]:
+            xmin = 112.1681183493792 
+            xmax = 114.13383015077207 
+            text = "Si Tanggang sudah balik" 
+        intervals [33]:
+            xmin = 114.13383015077207 
+            xmax = 122.3180383795111 
+            text = "Mak Tanggang senang hati nak jumpa anaknya tapi Si Tanggang tidak mengaku dia adalah maknya sebab malu" 
+        intervals [34]:
+            xmin = 122.3180383795111 
+            xmax = 127.09190989717949 
+            text = "Selepas itu, maknya berdoa supaya diberikan petunjuk" 
+        intervals [35]:
+            xmin = 127.09190989717949 
+            xmax = 135.79720501763362 
+            text = "tiba-tiba, angin bertiup kencang, laut berombak. Si Tanggang dan isteri serta anak kapal menjadi batu" 
+        intervals [36]:
+            xmin = 135.79720501763362 
+            xmax = 137.70675362470098 
+            text = "" 
+        intervals [37]:
+            xmin = 137.70675362470098 
+            xmax = 142.03075613817353 
+            text = "Apa pengajaran yang kamu dapat dari cerita ini?" 
+        intervals [38]:
+            xmin = 142.03075613817353 
+            xmax = 150.93262243876694 
+            text = "Pengajaran yang saya dapat dari cerita ini adalah kita wajib menghormati ibu kita yang dah banyak berjasa untuk kita" 
+        intervals [39]:
+            xmin = 150.93262243876694 
+            xmax = 155.66403561398474 
+            text = "Apa yang kamu paling ingat tentang cerita itu tadi?" 
+        intervals [40]:
+            xmin = 155.66403561398474 
+            xmax = 161.61733421248883 
+            text = "Apa yang saya paling ingat tentang cerita ini adalah bila mak Tanggang berdoa" 
+        intervals [41]:
+            xmin = 161.61733421248883 
+            xmax = 166.36312413299447 
+            text = "meminta petunjuk dan serta merta anaknya disumpah jadi batu" 
+        intervals [42]:
+            xmin = 166.36312413299447 
+            xmax = 166.85897916666667 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 166.85897916666667 
+        intervals: size = 42 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5800998263888889 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5800998263888889 
+            xmax = 2.321158854166667 
+            text = "Interviewer" 
+        intervals [3]:
+            xmin = 2.321158854166667 
+            xmax = 4.595768229166667 
+            text = "Denien" 
+        intervals [4]:
+            xmin = 4.595768229166667 
+            xmax = 6.589561631944444 
+            text = "Interviewer" 
+        intervals [5]:
+            xmin = 6.589561631944444 
+            xmax = 9.088823784722223 
+            text = "Denien" 
+        intervals [6]:
+            xmin = 9.088823784722223 
+            xmax = 11.307269965277778 
+            text = "Interviewer" 
+        intervals [7]:
+            xmin = 11.307269965277778 
+            xmax = 15.266775173611112 
+            text = "Denien" 
+        intervals [8]:
+            xmin = 15.266775173611112 
+            xmax = 18.29958767361111 
+            text = "Interviewer" 
+        intervals [9]:
+            xmin = 18.29958767361111 
+            xmax = 23.129622395833334 
+            text = "Denien" 
+        intervals [10]:
+            xmin = 23.129622395833334 
+            xmax = 24.505620659722222 
+            text = "" 
+        intervals [11]:
+            xmin = 24.505620659722222 
+            xmax = 28.717860243055558 
+            text = "Interviewer" 
+        intervals [12]:
+            xmin = 28.717860243055558 
+            xmax = 29.77134101026047 
+            text = "" 
+        intervals [13]:
+            xmin = 29.77134101026047 
+            xmax = 33.87125420470491 
+            text = "Denien" 
+        intervals [14]:
+            xmin = 33.87125420470491 
+            xmax = 36.87598510748269 
+            text = "Interviewer" 
+        intervals [15]:
+            xmin = 36.87598510748269 
+            xmax = 45.46895385748269 
+            text = "Denien" 
+        intervals [16]:
+            xmin = 45.46895385748269 
+            xmax = 47.8839712185938 
+            text = "Interviewer" 
+        intervals [17]:
+            xmin = 47.8839712185938 
+            xmax = 53.33066089329601 
+            text = "Denien" 
+        intervals [18]:
+            xmin = 53.33066089329601 
+            xmax = 57.20592130996268 
+            text = "Denien" 
+        intervals [19]:
+            xmin = 57.20592130996268 
+            xmax = 63.468398468127134 
+            text = "Denien" 
+        intervals [20]:
+            xmin = 63.468398468127134 
+            xmax = 69.64238232212827 
+            text = "Denien" 
+        intervals [21]:
+            xmin = 69.64238232212827 
+            xmax = 77.60109447587273 
+            text = "Denien" 
+        intervals [22]:
+            xmin = 77.60109447587273 
+            xmax = 80.83047814958958 
+            text = "Denien" 
+        intervals [23]:
+            xmin = 80.83047814958958 
+            xmax = 84.67765696088706 
+            text = "Denien" 
+        intervals [24]:
+            xmin = 84.67765696088706 
+            xmax = 86.7588181822828 
+            text = "Denien" 
+        intervals [25]:
+            xmin = 86.7588181822828 
+            xmax = 90.91489456237056 
+            text = "Denien" 
+        intervals [26]:
+            xmin = 90.91489456237056 
+            xmax = 94.11619663892466 
+            text = "Denien" 
+        intervals [27]:
+            xmin = 94.11619663892466 
+            xmax = 95.74492927436447 
+            text = "Denien" 
+        intervals [28]:
+            xmin = 95.74492927436447 
+            xmax = 101.4409482332067 
+            text = "Denien" 
+        intervals [29]:
+            xmin = 101.4409482332067 
+            xmax = 106.04633016789856 
+            text = "Denien" 
+        intervals [30]:
+            xmin = 106.04633016789856 
+            xmax = 107.8997155806404 
+            text = "Denien" 
+        intervals [31]:
+            xmin = 107.8997155806404 
+            xmax = 112.1681183493792 
+            text = "Denien" 
+        intervals [32]:
+            xmin = 112.1681183493792 
+            xmax = 114.13383015077207 
+            text = "Denien" 
+        intervals [33]:
+            xmin = 114.13383015077207 
+            xmax = 122.3180383795111 
+            text = "Denien" 
+        intervals [34]:
+            xmin = 122.3180383795111 
+            xmax = 127.09190989717949 
+            text = "Denien" 
+        intervals [35]:
+            xmin = 127.09190989717949 
+            xmax = 135.79720501763362 
+            text = "Denien" 
+        intervals [36]:
+            xmin = 135.79720501763362 
+            xmax = 137.70675362470098 
+            text = "" 
+        intervals [37]:
+            xmin = 137.70675362470098 
+            xmax = 142.03075613817353 
+            text = "Interviewer" 
+        intervals [38]:
+            xmin = 142.03075613817353 
+            xmax = 150.93262243876694 
+            text = "Denien" 
+        intervals [39]:
+            xmin = 150.93262243876694 
+            xmax = 155.66403561398474 
+            text = "Interviewer" 
+        intervals [40]:
+            xmin = 155.66403561398474 
+            xmax = 161.61733421248883 
+            text = "Denien" 
+        intervals [41]:
+            xmin = 161.61733421248883 
+            xmax = 166.36312413299447 
+            text = "Denien" 
+        intervals [42]:
+            xmin = 166.36312413299447 
+            xmax = 166.85897916666667 
+            text = "" 

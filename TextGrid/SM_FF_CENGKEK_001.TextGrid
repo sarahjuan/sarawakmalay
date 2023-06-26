@@ -1,0 +1,158 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 66.44297916666666 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Sarawak" 
+        xmin = 0 
+        xmax = 66.44297916666666 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.199032281360584 
+            text = "Mek nanyak kitak soalan agik boleh sik?" 
+        intervals [2]:
+            xmin = 2.199032281360584 
+            xmax = 3.973423846320503 
+            text = "Eh, boleh ajak." 
+        intervals [3]:
+            xmin = 3.973423846320503 
+            xmax = 7.692583333333333 
+            text = "Time gik kecik marek nak kitak suko main apokah?" 
+        intervals [4]:
+            xmin = 7.692583333333333 
+            xmax = 13.47909294432007 
+            text = "Hmm... gik kecik dolok marek kamek suka main cengkek. Kitak tauk apo main cengkek eh?" 
+        intervals [5]:
+            xmin = 13.47909294432007 
+            xmax = 16.14068029175995 
+            text = "Tauk tauk main lompat lompat eh nak." 
+        intervals [6]:
+            xmin = 16.14068029175995 
+            xmax = 56.259184850556885 
+            text = "Aok. Nyo rindok main rami rami bah. Mun main eh mesti ado tempat pake main eh, polah petak dalam lapan ke sembilan igek camyo. Dahyo masing-masing becarik angkoi pake tando sini san tempat urang yo. Dah nak mulo, main osom lok pake ambik giliran. Dahyo mainlah sigek round sampe abis semuo tempat ditikam, nak atas na yo kiro k ngabis eh. Round keduak, kito becarik ngan gumah. Sabilo angkoi ditikam ke sigek tempat yo, petak yo akan jadi rumah urang mpun angkoi yo tek.. Urang paling banyak mpun rumah yolah menang. Camyo jaklah main yo." 
+        intervals [7]:
+            xmin = 56.259184850556885 
+            xmax = 58.28706092328931 
+            text = "Best main eh nak?" 
+        intervals [8]:
+            xmin = 58.28706092328931 
+            xmax = 62.46955532329993 
+            text = "Best naa nyo yo. Best na main cuti sekolah." 
+        intervals [9]:
+            xmin = 62.46955532329993 
+            xmax = 63.35675110512036 
+            text = "" 
+        intervals [10]:
+            xmin = 63.35675110512036 
+            xmax = 65.76485394149012 
+            text = "Ado pake berami nak." 
+        intervals [11]:
+            xmin = 65.76485394149012 
+            xmax = 66.44297916666666 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Malay" 
+        xmin = 0 
+        xmax = 66.44297916666666 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.199032281360584 
+            text = "Saya nak tanya awak soalan boleh tak?" 
+        intervals [2]:
+            xmin = 2.199032281360584 
+            xmax = 3.973423846320503 
+            text = "Eh, boleh sahaja." 
+        intervals [3]:
+            xmin = 3.973423846320503 
+            xmax = 7.692583333333333 
+            text = "Masa kecil dahulu, awak suka main permainan apa?" 
+        intervals [4]:
+            xmin = 7.692583333333333 
+            xmax = 13.47909294432007 
+            text = "Hmm.. masa kecil dulu saya suka bermain ketinting. Adakah awak tahu main ketinting?" 
+        intervals [5]:
+            xmin = 13.47909294432007 
+            xmax = 16.14068029175995 
+            text = "Tahu tahu yang main lompat lompat itu kan?" 
+        intervals [6]:
+            xmin = 16.14068029175995 
+            xmax = 56.259184850556885 
+            text = "Ya. Seronok kalau main beramai-ramai. Jika bermain mesti ada tempat untuk bermain, buat dalam 8 atau 9 petak. Selepas itu, masing-masing mencari gundu (buah) untuk menandakan tempat pemain tersebut. Memulakan permainan dengan osom untuk mengambil giliran. Selepas itu, sekiranya habis satu pusingan dimainkan, pusingan kedua kita mencari rumah. Apabila gundu (buah) yang ditikam mengenai petak maka petak iu dimliki oleh pemain pemain tersebut. Pemain yang paling banyak memiliki rumah adalah pemenang." 
+        intervals [7]:
+            xmin = 56.259184850556885 
+            xmax = 58.28706092328931 
+            text = "Seronok mainkan?" 
+        intervals [8]:
+            xmin = 58.28706092328931 
+            xmax = 62.46955532329993 
+            text = "Seronok sangat. Lagi best main bila cuti sekolah." 
+        intervals [9]:
+            xmin = 62.46955532329993 
+            xmax = 63.35675110512036 
+            text = "" 
+        intervals [10]:
+            xmin = 63.35675110512036 
+            xmax = 65.76485394149012 
+            text = "Adalah masa untuk berkumpulkan." 
+        intervals [11]:
+            xmin = 65.76485394149012 
+            xmax = 66.44297916666666 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 66.44297916666666 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.199032281360584 
+            text = "Arfa" 
+        intervals [2]:
+            xmin = 2.199032281360584 
+            xmax = 3.973423846320503 
+            text = "Azza" 
+        intervals [3]:
+            xmin = 3.973423846320503 
+            xmax = 7.692583333333333 
+            text = "Arfa" 
+        intervals [4]:
+            xmin = 7.692583333333333 
+            xmax = 13.47909294432007 
+            text = "Azza" 
+        intervals [5]:
+            xmin = 13.47909294432007 
+            xmax = 16.14068029175995 
+            text = "Arfa" 
+        intervals [6]:
+            xmin = 16.14068029175995 
+            xmax = 56.259184850556885 
+            text = "Azza" 
+        intervals [7]:
+            xmin = 56.259184850556885 
+            xmax = 58.28706092328931 
+            text = "Arfa" 
+        intervals [8]:
+            xmin = 58.28706092328931 
+            xmax = 62.46955532329993 
+            text = "Azza" 
+        intervals [9]:
+            xmin = 62.46955532329993 
+            xmax = 63.35675110512036 
+            text = "" 
+        intervals [10]:
+            xmin = 63.35675110512036 
+            xmax = 65.76485394149012 
+            text = "Arfa" 
+        intervals [11]:
+            xmin = 65.76485394149012 
+            xmax = 66.44297916666666 
+            text = "" 

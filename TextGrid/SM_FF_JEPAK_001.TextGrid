@@ -1,0 +1,86 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 155.77097916666668 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Sarawak" 
+        xmin = 0 
+        xmax = 155.77097916666668 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.829083333333333 
+            text = "Nayli, boleh sik kitak menceritakan kisah menarik yang ada di kampung kitak? Kitak dari kampung sine?" 
+        intervals [2]:
+            xmin = 10.829083333333333 
+            xmax = 105.43404166666666 
+            text = "Kamek dari Kampung Jepak, Bintulu. Di kampung kamek di Kampung Jepak, ada sebuah gua kecik di atas bukit Jepak ya, nya dihuni oleh seekor lipan raksasa. Nya amat ditakuti oleh penduduk kampung masa ya. Lipan raksasa tok nya dikatakan nya sering keluar pada waktu malam untuk mencarik makan. Terutama di kawasan kaki bukit Jepak. Sehinggalah ke sungei Bintulu sia. Kewujudan lipan tok nya menjadi buah mulut penduduk setiap hari dan tok telah menyebabkan sidak nya untuk sik berani turun ke sungei pada waktu malam, apatah gik mun berburu di kawasan hutan di bukit Jepak sia. Pernah dolok sidak madah ada orang kampung hilang di kawasan ya pada waktu malam. Dan isok nya mayat sidak nya ditemui dalam keadaan yang ngeri, sidak mati. Dari hari ke hari, pelbagai peristiwa menakutkan telah jadi lah di kawasan bukit Jepak tok. Dipercayai angkara lipan raksasa ya tadik. Penduduk kampung Jepak ya, sidak mula rasa bingung and sidak sik tenang dan ada di kalangan sidak nya pernah nampak lipan raksasa ya tengah berlingkar badan nya di batang pokok dengan warna badan nya ya warna merah hitam." 
+        intervals [3]:
+            xmin = 105.43404166666666 
+            xmax = 127.2569892445055 
+            text = "Wah! Menarik kisah kitak ya. Jadi, daripada kisah lipan raksasa tok tadik apa pengajaran yang dapat sidak penduduk kampung ya ambik dan jadi pedoman untuk masa kinek tok?" 
+        intervals [4]:
+            xmin = 127.2569892445055 
+            xmax = 154.26168138998898 
+            text = "Okey. Antara pengajaran yang dapat kamek padah untuk kita generasi kita kinek tok, janganlah keluar pada waktu malam and bila kita berada dekat mana-mana tempat yang di hutan ka maybe di atas bukit ka kita sik boleh bermulut celupar kata orang mun untuk mengelakkan apa-apa benda yang sik diingini untuk berlaku." 
+        intervals [5]:
+            xmin = 154.26168138998898 
+            xmax = 155.77097916666668 
+            text = "Oh! Okey." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Malay" 
+        xmin = 0 
+        xmax = 155.77097916666668 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.829083333333333 
+            text = "" 
+        intervals [2]:
+            xmin = 10.829083333333333 
+            xmax = 105.43404166666666 
+            text = "" 
+        intervals [3]:
+            xmin = 105.43404166666666 
+            xmax = 127.2569892445055 
+            text = "" 
+        intervals [4]:
+            xmin = 127.2569892445055 
+            xmax = 154.26168138998898 
+            text = "" 
+        intervals [5]:
+            xmin = 154.26168138998898 
+            xmax = 155.77097916666668 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 155.77097916666668 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 10.829083333333333 
+            text = "M" 
+        intervals [2]:
+            xmin = 10.829083333333333 
+            xmax = 105.43404166666666 
+            text = "A" 
+        intervals [3]:
+            xmin = 105.43404166666666 
+            xmax = 127.2569892445055 
+            text = "M" 
+        intervals [4]:
+            xmin = 127.2569892445055 
+            xmax = 154.26168138998898 
+            text = "A" 
+        intervals [5]:
+            xmin = 154.26168138998898 
+            xmax = 155.77097916666668 
+            text = "M" 

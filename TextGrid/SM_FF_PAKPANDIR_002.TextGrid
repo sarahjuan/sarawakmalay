@@ -1,0 +1,266 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 39.504 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Sarawak" 
+        xmin = 0 
+        xmax = 39.504 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39789465112912564 
+            text = "" 
+        intervals [2]:
+            xmin = 0.39789465112912564 
+            xmax = 1.4515643094962363 
+            text = "Sapo namo kitak nek?" 
+        intervals [3]:
+            xmin = 1.4515643094962363 
+            xmax = 2.3998670020266357 
+            text = "" 
+        intervals [4]:
+            xmin = 2.3998670020266357 
+            xmax = 3.2954862116386794 
+            text = "Imah." 
+        intervals [5]:
+            xmin = 3.2954862116386794 
+            xmax = 4.1208607773595824 
+            text = "" 
+        intervals [6]:
+            xmin = 4.1208607773595824 
+            xmax = 5.525753655182397 
+            text = "Bapo dah umo kitak kinek nek?" 
+        intervals [7]:
+            xmin = 5.525753655182397 
+            xmax = 7.861388064562825 
+            text = "" 
+        intervals [8]:
+            xmin = 7.861388064562825 
+            xmax = 10.952152395773016 
+            text = "Tuo dah inek tuk, dalam 67 beh ado dah umo." 
+        intervals [9]:
+            xmin = 10.952152395773016 
+            xmax = 11.601915351766069 
+            text = "" 
+        intervals [10]:
+            xmin = 11.601915351766069 
+            xmax = 13.463398414881297 
+            text = "Kitak nang asai situk kah nek?" 
+        intervals [11]:
+            xmin = 13.463398414881297 
+            xmax = 16.62440738998263 
+            text = "Aok. Inek nang urang bandi nang alu tuo situk jak." 
+        intervals [12]:
+            xmin = 16.62440738998263 
+            xmax = 17.765882853213665 
+            text = "" 
+        intervals [13]:
+            xmin = 17.765882853213665 
+            xmax = 20.558107447886506 
+            text = "Nek, mek nak nanyak kitak tuk. Cito Pak Pande kitak tauk sik nek?" 
+        intervals [14]:
+            xmin = 20.558107447886506 
+            xmax = 21.20787040387956 
+            text = "" 
+        intervals [15]:
+            xmin = 21.20787040387956 
+            xmax = 26.353290568905617 
+            text = "Tauk. Nak urang tuo penta eh nak? Ado kesah eh mberik mandik anak eh pake aik angat." 
+        intervals [16]:
+            xmin = 26.353290568905617 
+            xmax = 27.090859329762594 
+            text = "" 
+        intervals [17]:
+            xmin = 27.090859329762594 
+            xmax = 36.542175848491006 
+            text = "Nak bego bini eh dikejo eh. Nyo ingat anak eh suko dipolah eh camyo. Sampe ninggai anak nyo ntam laki eh. Alu sedih nyeduak laki bini dahlah anak sorang ninggai jak gik. " 
+        intervals [18]:
+            xmin = 36.542175848491006 
+            xmax = 37.22706112604883 
+            text = "" 
+        intervals [19]:
+            xmin = 37.22706112604883 
+            xmax = 38.63195400309052 
+            text = "Nak po toi na Pak Pande eh." 
+        intervals [20]:
+            xmin = 38.63195400309052 
+            xmax = 39.504 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Malay" 
+        xmin = 0 
+        xmax = 39.504 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39789465112912564 
+            text = "" 
+        intervals [2]:
+            xmin = 0.39789465112912564 
+            xmax = 1.4515643094962363 
+            text = "Siapa nama nenek?" 
+        intervals [3]:
+            xmin = 1.4515643094962363 
+            xmax = 2.3998670020266357 
+            text = "" 
+        intervals [4]:
+            xmin = 2.3998670020266357 
+            xmax = 3.2954862116386794 
+            text = "Imah." 
+        intervals [5]:
+            xmin = 3.2954862116386794 
+            xmax = 4.1208607773595824 
+            text = "" 
+        intervals [6]:
+            xmin = 4.1208607773595824 
+            xmax = 5.525753655182397 
+            text = "Berapakah umur nenek sekarang?" 
+        intervals [7]:
+            xmin = 5.525753655182397 
+            xmax = 7.861388064562825 
+            text = "" 
+        intervals [8]:
+            xmin = 7.861388064562825 
+            xmax = 10.952152395773016 
+            text = "Nenek sudah tua, umur nenek sekarang dalam 67 begitu." 
+        intervals [9]:
+            xmin = 10.952152395773016 
+            xmax = 11.601915351766069 
+            text = "" 
+        intervals [10]:
+            xmin = 11.601915351766069 
+            xmax = 13.463398414881297 
+            text = "Nenek memang berasal dari sinikah?" 
+        intervals [11]:
+            xmin = 13.463398414881297 
+            xmax = 16.62440738998263 
+            text = "Ya. Nenek memang berasal dari Sebandi sini." 
+        intervals [12]:
+            xmin = 16.62440738998263 
+            xmax = 17.765882853213665 
+            text = "" 
+        intervals [13]:
+            xmin = 17.765882853213665 
+            xmax = 20.558107447886506 
+            text = "Nek, saya nak tanya nenek. Nenek tahu cerita Pak Pandir tak?" 
+        intervals [14]:
+            xmin = 20.558107447886506 
+            xmax = 21.20787040387956 
+            text = "" 
+        intervals [15]:
+            xmin = 21.20787040387956 
+            xmax = 26.353290568905617 
+            text = "Tahu. Orang tua yang kurang cerdik itu kan? Ada kisah ketika dia memandikan anaknya dengan air panas. " 
+        intervals [16]:
+            xmin = 26.353290568905617 
+            xmax = 27.090859329762594 
+            text = "" 
+        intervals [17]:
+            xmin = 27.090859329762594 
+            xmax = 36.542175848491006 
+            text = "Membebel isterinya dengan perbuatannya. Pak Pandir memikirkan anaknya suka dengan perbuatannya. Sehingga meninggal anaknya dikerjanya. Pak Pandir dan isterinya sedih atas kehilangan anak tunggalnya. " 
+        intervals [18]:
+            xmin = 36.542175848491006 
+            xmax = 37.22706112604883 
+            text = "" 
+        intervals [19]:
+            xmin = 37.22706112604883 
+            xmax = 38.63195400309052 
+            text = "Tidak berapa betul sikap Pak Pandir itu." 
+        intervals [20]:
+            xmin = 38.63195400309052 
+            xmax = 39.504 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 39.504 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.39789465112912564 
+            text = "" 
+        intervals [2]:
+            xmin = 0.39789465112912564 
+            xmax = 1.4515643094962363 
+            text = "A" 
+        intervals [3]:
+            xmin = 1.4515643094962363 
+            xmax = 2.3998670020266357 
+            text = "" 
+        intervals [4]:
+            xmin = 2.3998670020266357 
+            xmax = 3.2954862116386794 
+            text = "I" 
+        intervals [5]:
+            xmin = 3.2954862116386794 
+            xmax = 4.1208607773595824 
+            text = "" 
+        intervals [6]:
+            xmin = 4.1208607773595824 
+            xmax = 5.525753655182397 
+            text = "A" 
+        intervals [7]:
+            xmin = 5.525753655182397 
+            xmax = 7.861388064562825 
+            text = "" 
+        intervals [8]:
+            xmin = 7.861388064562825 
+            xmax = 10.952152395773016 
+            text = "I" 
+        intervals [9]:
+            xmin = 10.952152395773016 
+            xmax = 11.601915351766069 
+            text = "" 
+        intervals [10]:
+            xmin = 11.601915351766069 
+            xmax = 13.463398414881297 
+            text = "A" 
+        intervals [11]:
+            xmin = 13.463398414881297 
+            xmax = 16.62440738998263 
+            text = "I" 
+        intervals [12]:
+            xmin = 16.62440738998263 
+            xmax = 17.765882853213665 
+            text = "" 
+        intervals [13]:
+            xmin = 17.765882853213665 
+            xmax = 20.558107447886506 
+            text = "A" 
+        intervals [14]:
+            xmin = 20.558107447886506 
+            xmax = 21.20787040387956 
+            text = "" 
+        intervals [15]:
+            xmin = 21.20787040387956 
+            xmax = 26.353290568905617 
+            text = "I" 
+        intervals [16]:
+            xmin = 26.353290568905617 
+            xmax = 27.090859329762594 
+            text = "" 
+        intervals [17]:
+            xmin = 27.090859329762594 
+            xmax = 36.542175848491006 
+            text = "I" 
+        intervals [18]:
+            xmin = 36.542175848491006 
+            xmax = 37.22706112604883 
+            text = "" 
+        intervals [19]:
+            xmin = 37.22706112604883 
+            xmax = 38.63195400309052 
+            text = "I" 
+        intervals [20]:
+            xmin = 38.63195400309052 
+            xmax = 39.504 
+            text = "" 

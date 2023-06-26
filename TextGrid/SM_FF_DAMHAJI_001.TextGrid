@@ -1,0 +1,266 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 133.05358276643992 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Sarawak" 
+        xmin = 0 
+        xmax = 133.05358276643992 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.45057813404748115 
+            text = "" 
+        intervals [2]:
+            xmin = 0.45057813404748115 
+            xmax = 8.370661732773595 
+            text = "Assalammualaikom, nek kitak tauk apa-apa permainan tradisional ka nek nak dimain kitak dolok-dolok." 
+        intervals [3]:
+            xmin = 8.370661732773595 
+            xmax = 9.705309966705268 
+            text = "Waalaikomsalam" 
+        intervals [4]:
+            xmin = 9.705309966705268 
+            xmax = 10.372634083671105 
+            text = "" 
+        intervals [5]:
+            xmin = 10.372634083671105 
+            xmax = 45.618831052918026 
+            text = "tauk sigek jak mainan nak selalu mekrang main dolok nak senang dicarik yalah dam haji nektok catur padah orang nak sebab nya lebeh kurang kedakya lah. Mainan mekrang dolok sik mahal ko ngambik papan goreskan itam putih kakya tek eh dam ya yatek pake palak botol menet, nektok susah nak dapat botol menet ya. Mun wana puteh tebalit mun wana itam ya kelak tungkup kannya. Bila nya dah jadi raja ya kata orang jadi nait haji double nyaman kita membezanya." 
+        intervals [6]:
+            xmin = 45.618831052918026 
+            xmax = 46.619817228366784 
+            text = "" 
+        intervals [7]:
+            xmin = 46.619817228366784 
+            xmax = 58.38565462898379 
+            text = "Tapi mekrang main ya sik susah kedak catur ya, main langkah-langkah jak dapat Langkah mati orang ya. Main game tok sik rami orang, duak orang ajak." 
+        intervals [8]:
+            xmin = 58.38565462898379 
+            xmax = 59.42176312637811 
+            text = "" 
+        intervals [9]:
+            xmin = 59.42176312637811 
+            xmax = 76.50359715855272 
+            text = "Cara dapat point ya, sik la susah Langkah kita mati orang ya point kita lah ya, kata kita dapat langkah sampe ujung jadi haji. Time jadi haji ya sukati kita melangkah sepuloh egek ka, duak puloh egek ka tapinya sikda check mate ko." 
+        intervals [10]:
+            xmin = 76.50359715855272 
+            xmax = 77.32897172427363 
+            text = "" 
+        intervals [11]:
+            xmin = 77.32897172427363 
+            xmax = 78.04897932415783 
+            text = "Tapi yalah" 
+        intervals [12]:
+            xmin = 78.04897932415783 
+            xmax = 78.83923156793315 
+            text = "" 
+        intervals [13]:
+            xmin = 78.83923156793315 
+            xmax = 115.36230796705235 
+            text = "mainan ya dah sik ditangga biak agik kali nedak kinektok semua dah ada tenet. Tapi masa pake main game ya ekot orang la, ada orang main game ya lamak tok ko sigek sesi ya nedak tere gilak time ya tek, ada juak bila orang ngakuk kalah alu lah tek kalah lah orang ya. Yalah kmk suka main game tok segal nya senang sik pelu pake apa-apa bah, barang tebuang palak botol menet. Nak yajak pake mekrang dolok. Nektok macam-macam main kita nak ohh." 
+        intervals [14]:
+            xmin = 115.36230796705235 
+            xmax = 118.15453256172519 
+            text = "Ohh, yalah kitak suka main game ya tek nek ?" 
+        intervals [15]:
+            xmin = 118.15453256172519 
+            xmax = 119.45405847371129 
+            text = "" 
+        intervals [16]:
+            xmin = 119.45405847371129 
+            xmax = 120.10382142970434 
+            text = "Aok" 
+        intervals [17]:
+            xmin = 120.10382142970434 
+            xmax = 120.70090090277904 
+            text = "" 
+        intervals [18]:
+            xmin = 120.70090090277904 
+            xmax = 129.055650118498 
+            text = "senang best bah main ya. Dolok ompuan suka main selemban, nenek sik suka. Main dam best." 
+        intervals [19]:
+            xmin = 129.055650118498 
+            xmax = 131.09274479001212 
+            text = "Ohh, makseh nek. " 
+        intervals [20]:
+            xmin = 131.09274479001212 
+            xmax = 133.05358276643992 
+            text = "Sama-sama." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Malay" 
+        xmin = 0 
+        xmax = 133.05358276643992 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.45057813404748115 
+            text = "" 
+        intervals [2]:
+            xmin = 0.45057813404748115 
+            xmax = 8.370661732773595 
+            text = "" 
+        intervals [3]:
+            xmin = 8.370661732773595 
+            xmax = 9.705309966705268 
+            text = "" 
+        intervals [4]:
+            xmin = 9.705309966705268 
+            xmax = 10.372634083671105 
+            text = "" 
+        intervals [5]:
+            xmin = 10.372634083671105 
+            xmax = 45.618831052918026 
+            text = "" 
+        intervals [6]:
+            xmin = 45.618831052918026 
+            xmax = 46.619817228366784 
+            text = "" 
+        intervals [7]:
+            xmin = 46.619817228366784 
+            xmax = 58.38565462898379 
+            text = "" 
+        intervals [8]:
+            xmin = 58.38565462898379 
+            xmax = 59.42176312637811 
+            text = "" 
+        intervals [9]:
+            xmin = 59.42176312637811 
+            xmax = 76.50359715855272 
+            text = "" 
+        intervals [10]:
+            xmin = 76.50359715855272 
+            xmax = 77.32897172427363 
+            text = "" 
+        intervals [11]:
+            xmin = 77.32897172427363 
+            xmax = 78.04897932415783 
+            text = "" 
+        intervals [12]:
+            xmin = 78.04897932415783 
+            xmax = 78.83923156793315 
+            text = "" 
+        intervals [13]:
+            xmin = 78.83923156793315 
+            xmax = 115.36230796705235 
+            text = "" 
+        intervals [14]:
+            xmin = 115.36230796705235 
+            xmax = 118.15453256172519 
+            text = "" 
+        intervals [15]:
+            xmin = 118.15453256172519 
+            xmax = 119.45405847371129 
+            text = "" 
+        intervals [16]:
+            xmin = 119.45405847371129 
+            xmax = 120.10382142970434 
+            text = "" 
+        intervals [17]:
+            xmin = 120.10382142970434 
+            xmax = 120.70090090277904 
+            text = "" 
+        intervals [18]:
+            xmin = 120.70090090277904 
+            xmax = 129.055650118498 
+            text = "" 
+        intervals [19]:
+            xmin = 129.055650118498 
+            xmax = 131.09274479001212 
+            text = "" 
+        intervals [20]:
+            xmin = 131.09274479001212 
+            xmax = 133.05358276643992 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 133.05358276643992 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.45057813404748115 
+            text = "" 
+        intervals [2]:
+            xmin = 0.45057813404748115 
+            xmax = 8.370661732773595 
+            text = "M" 
+        intervals [3]:
+            xmin = 8.370661732773595 
+            xmax = 9.705309966705268 
+            text = "NH" 
+        intervals [4]:
+            xmin = 9.705309966705268 
+            xmax = 10.372634083671105 
+            text = "" 
+        intervals [5]:
+            xmin = 10.372634083671105 
+            xmax = 45.618831052918026 
+            text = "NH" 
+        intervals [6]:
+            xmin = 45.618831052918026 
+            xmax = 46.619817228366784 
+            text = "" 
+        intervals [7]:
+            xmin = 46.619817228366784 
+            xmax = 58.38565462898379 
+            text = "NH" 
+        intervals [8]:
+            xmin = 58.38565462898379 
+            xmax = 59.42176312637811 
+            text = "" 
+        intervals [9]:
+            xmin = 59.42176312637811 
+            xmax = 76.50359715855272 
+            text = "NH" 
+        intervals [10]:
+            xmin = 76.50359715855272 
+            xmax = 77.32897172427363 
+            text = "" 
+        intervals [11]:
+            xmin = 77.32897172427363 
+            xmax = 78.04897932415783 
+            text = "NH" 
+        intervals [12]:
+            xmin = 78.04897932415783 
+            xmax = 78.83923156793315 
+            text = "" 
+        intervals [13]:
+            xmin = 78.83923156793315 
+            xmax = 115.36230796705235 
+            text = "NH" 
+        intervals [14]:
+            xmin = 115.36230796705235 
+            xmax = 118.15453256172519 
+            text = "M" 
+        intervals [15]:
+            xmin = 118.15453256172519 
+            xmax = 119.45405847371129 
+            text = "" 
+        intervals [16]:
+            xmin = 119.45405847371129 
+            xmax = 120.10382142970434 
+            text = "NH" 
+        intervals [17]:
+            xmin = 120.10382142970434 
+            xmax = 120.70090090277904 
+            text = "" 
+        intervals [18]:
+            xmin = 120.70090090277904 
+            xmax = 129.055650118498 
+            text = "NH" 
+        intervals [19]:
+            xmin = 129.055650118498 
+            xmax = 131.09274479001212 
+            text = "M" 
+        intervals [20]:
+            xmin = 131.09274479001212 
+            xmax = 133.05358276643992 
+            text = "NH" 

@@ -1,0 +1,134 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 127.6865625 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Sarawak" 
+        xmin = 0 
+        xmax = 127.6865625 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.1238125000000005 
+            text = "Assalammualaikom, boleh kamek tauk sapa nama kitak, umo, sine diam ?" 
+        intervals [2]:
+            xmin = 6.1238125000000005 
+            xmax = 15.30025 
+            text = "Waalaikomsalam, nama nenek Hajian, umo 60 tahun, diam di kampung Matang batu 10 tok." 
+        intervals [3]:
+            xmin = 15.30025 
+            xmax = 18.675525384559837 
+            text = "Kitak tau kapa-apa cerita rakyat ka?" 
+        intervals [4]:
+            xmin = 18.675525384559837 
+            xmax = 102.17090391862916 
+            text = "Tauk sikit-sikit. Tapi paling glamor nenek tauk cerita ikan patin. Tok ko dolok ada sorang nelayan tok pegi ke sunge nemu nembiak kecik ompuan. Nya mike dah tek sidak keterunan raja laut. Diputitnya juak tek diinangnya sampe dara, dah biak ya tek dah dara ada orang kenan, orang laki tek kenan. Tapi orang dara ya madah nikah ya boleh tapi jangan nyruh nya tetak. Pasya tek nak, dah nyaduak nikah tek nak, nak bapak angkat nya nelayan ya tek ninggal. Sedihlah si anak ikan ya tek nak di temu nya tepi sunge ya. Kakya tek nasi blah tek ada berita mengandung yalah nyuruh nya senang ati sikit. Dah lamak nyaduak tok tek nikah, laki nya tek eran pahal bini ku tok sik tetak kah. Ya diguro nya alu berinsang ompuan yatek, ya nya ngelepa carik aek ke sunge tek terjun ompuan ya, ya dikepong lakinya. Las pesannya ngan laki nya, jangan biar keterunan kita makan ikan patin ya umpama makan keterunan kita empun eh. Nenek tauk mun keterunan ya makan ikan patin boleh mati, kadang-kadang burok badannya susah nak diubat ko. Yajak nenek tauk tek mena endak ka." 
+        intervals [5]:
+            xmin = 102.17090391862916 
+            xmax = 107.13670878448573 
+            text = "Okay, nek apa pengajaran dari cerita ya tek oh?" 
+        intervals [6]:
+            xmin = 107.13670878448573 
+            xmax = 121.74863370756306 
+            text = "Nenek madah tok eh, kita tok nak dah nama berjanji ngan orang jangan kita sik ingat ngan janji kita. Oleh kita sik ingat ngan janji kita nak ka rugi kita, bini kita ilang, keterunan kita sikpat makan ikan patin." 
+        intervals [7]:
+            xmin = 121.74863370756306 
+            xmax = 124.79044781851132 
+            text = "Ohh okay, makseh nek." 
+        intervals [8]:
+            xmin = 124.79044781851132 
+            xmax = 126.31135487398547 
+            text = "Samo, yajak ka tek ?" 
+        intervals [9]:
+            xmin = 126.31135487398547 
+            xmax = 127.6865625 
+            text = "Aok." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Malay" 
+        xmin = 0 
+        xmax = 127.6865625 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.1238125000000005 
+            text = "" 
+        intervals [2]:
+            xmin = 6.1238125000000005 
+            xmax = 15.30025 
+            text = "" 
+        intervals [3]:
+            xmin = 15.30025 
+            xmax = 18.675525384559837 
+            text = "" 
+        intervals [4]:
+            xmin = 18.675525384559837 
+            xmax = 102.17090391862916 
+            text = "" 
+        intervals [5]:
+            xmin = 102.17090391862916 
+            xmax = 107.13670878448573 
+            text = "" 
+        intervals [6]:
+            xmin = 107.13670878448573 
+            xmax = 121.74863370756306 
+            text = "" 
+        intervals [7]:
+            xmin = 121.74863370756306 
+            xmax = 124.79044781851132 
+            text = "" 
+        intervals [8]:
+            xmin = 124.79044781851132 
+            xmax = 126.31135487398547 
+            text = "" 
+        intervals [9]:
+            xmin = 126.31135487398547 
+            xmax = 127.6865625 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 127.6865625 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.1238125000000005 
+            text = "Murni" 
+        intervals [2]:
+            xmin = 6.1238125000000005 
+            xmax = 15.30025 
+            text = "Nek Hajian" 
+        intervals [3]:
+            xmin = 15.30025 
+            xmax = 18.675525384559837 
+            text = "Murni" 
+        intervals [4]:
+            xmin = 18.675525384559837 
+            xmax = 102.17090391862916 
+            text = "Nek Hajian" 
+        intervals [5]:
+            xmin = 102.17090391862916 
+            xmax = 107.13670878448573 
+            text = "Murni" 
+        intervals [6]:
+            xmin = 107.13670878448573 
+            xmax = 121.74863370756306 
+            text = "Nek Hajian" 
+        intervals [7]:
+            xmin = 121.74863370756306 
+            xmax = 124.79044781851132 
+            text = "Murni" 
+        intervals [8]:
+            xmin = 124.79044781851132 
+            xmax = 126.31135487398547 
+            text = "Nek Hajian" 
+        intervals [9]:
+            xmin = 126.31135487398547 
+            xmax = 127.6865625 
+            text = "Murni" 

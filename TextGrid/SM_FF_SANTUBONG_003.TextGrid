@@ -1,0 +1,266 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 96.05897916666666 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Sarawak" 
+        xmin = 0 
+        xmax = 96.05897916666666 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24312065972222222 
+            text = "" 
+        intervals [2]:
+            xmin = 0.24312065972222222 
+            xmax = 4.666854166666667 
+            text = "Assalamualaikum mak cik. Nama kamek Nur Athirah binti Suhaili." 
+        intervals [3]:
+            xmin = 4.666854166666667 
+            xmax = 13.025916666666667 
+            text = "Kamek merupakan pelajar tahun satu jurusan sains kognitif dari fakulti sains kognitif dan pembangunan manusia UNIMAS. " 
+        intervals [4]:
+            xmin = 13.025916666666667 
+            xmax = 14.4374375 
+            text = "" 
+        intervals [5]:
+            xmin = 14.4374375 
+            xmax = 20.92583333333333 
+            text = "Kamek telah ditugaskan untuk membuat satu temu bual untuk subjek pengenalan kepada analisis linguistik." 
+        intervals [6]:
+            xmin = 20.92583333333333 
+            xmax = 27.516187499999997 
+            text = "Sebelum ya, boleh sik kamek tauk nama kitak mak cik? Sudi sik kitak di temu bual kamek?" 
+        intervals [7]:
+            xmin = 27.516187499999997 
+            xmax = 28.35445833333333 
+            text = "	" 
+        intervals [8]:
+            xmin = 28.35445833333333 
+            xmax = 31.290729166666665 
+            text = "Assalamualaikum" 
+        intervals [9]:
+            xmin = 31.290729166666665 
+            xmax = 34.86077083333333 
+            text = "mak cik nama Sitam Haji Ismail" 
+        intervals [10]:
+            xmin = 34.86077083333333 
+            xmax = 40.20189583333333 
+            text = "Umur 61 tahun. Asal Kuching Sarawak." 
+        intervals [11]:
+            xmin = 40.20189583333333 
+            xmax = 51.78895833333333 
+            text = "Okey, untuk soalan yang pertama, boleh sik mak cik ceritakan satu cerita tradisional yang mak cik tauk." 
+        intervals [12]:
+            xmin = 51.78895833333333 
+            xmax = 55.881625 
+            text = "bismillahirrahmanirrahim assalamualaikum" 
+        intervals [13]:
+            xmin = 55.881625 
+            xmax = 63.65416666666667 
+            text = "tok kisah cerita tradisional puteri santubong puteri sejinjang." 
+        intervals [14]:
+            xmin = 63.65416666666667 
+            xmax = 69.29397916666667 
+            text = "Camyalah nama negeri Sarawak menjadi lagenda sejak enseya." 
+        intervals [15]:
+            xmin = 69.29397916666667 
+            xmax = 77.39433075334819 
+            text = "Sarawak bumi kenyalang merupakan negeri terbesar di Malaysia yang terkenal sebagai kepada beribu-ribu gulung." 
+        intervals [16]:
+            xmin = 77.39433075334819 
+            xmax = 81.7835625 
+            text = "Kenyalang bukan ajak negeri yang terbesar di Malaysia" 
+        intervals [17]:
+            xmin = 81.7835625 
+            xmax = 85.9905625 
+            text = " nya juak merupakan negeri yang besar kawasan " 
+        intervals [18]:
+            xmin = 85.9905625 
+            xmax = 90.34525 
+            text = "luas sungainya panjang di Malaysia" 
+        intervals [19]:
+            xmin = 90.34525 
+            xmax = 92.06145833333333 
+            text = "Assalamualaikum" 
+        intervals [20]:
+            xmin = 92.06145833333333 
+            xmax = 96.05897916666666 
+            text = "Okey, waalaikumsalam. Terima kasih banyak-banyak mak cik." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Malay" 
+        xmin = 0 
+        xmax = 96.05897916666666 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24312065972222222 
+            text = "" 
+        intervals [2]:
+            xmin = 0.24312065972222222 
+            xmax = 4.666854166666667 
+            text = "Assalamualaikum mak cik. Nama saya Nur Athirah binti Suhaili." 
+        intervals [3]:
+            xmin = 4.666854166666667 
+            xmax = 13.025916666666667 
+            text = "Saya merupakan pelajar tahun satu jurusan sains kognitif dari fakulti sains kognitif dan pembangunan manusia UNIMAS. " 
+        intervals [4]:
+            xmin = 13.025916666666667 
+            xmax = 14.4374375 
+            text = "" 
+        intervals [5]:
+            xmin = 14.4374375 
+            xmax = 20.92583333333333 
+            text = "Saya telah ditugaskan untuk membuat satu temu bual untuk subjek pengenalan kepada analisis linguistik." 
+        intervals [6]:
+            xmin = 20.92583333333333 
+            xmax = 27.516187499999997 
+            text = "Sebelum itu, boleh tak saya tahu nama kamu mak cik? Sudi tak kamu di temu bual saya?" 
+        intervals [7]:
+            xmin = 27.516187499999997 
+            xmax = 28.35445833333333 
+            text = "" 
+        intervals [8]:
+            xmin = 28.35445833333333 
+            xmax = 31.290729166666665 
+            text = "Assalamualaikum" 
+        intervals [9]:
+            xmin = 31.290729166666665 
+            xmax = 34.86077083333333 
+            text = "mak cik bernama Sitam Haji Ismail" 
+        intervals [10]:
+            xmin = 34.86077083333333 
+            xmax = 40.20189583333333 
+            text = "Umur 61 tahun. Asal Kuching Sarawak." 
+        intervals [11]:
+            xmin = 40.20189583333333 
+            xmax = 51.78895833333333 
+            text = "Okey, untuk soalan yang pertama, boleh tak mak cik ceritakan satu cerita tradisional yang mak cik tahu." 
+        intervals [12]:
+            xmin = 51.78895833333333 
+            xmax = 55.881625 
+            text = "bismillahirrahmanirrahim assalamualaikum" 
+        intervals [13]:
+            xmin = 55.881625 
+            xmax = 63.65416666666667 
+            text = "ini kisah cerita tradisional puteri santubong puteri sejinjang." 
+        intervals [14]:
+            xmin = 63.65416666666667 
+            xmax = 69.29397916666667 
+            text = "Begitulah nama negeri Sarawak menjadi lagenda sejak enseya." 
+        intervals [15]:
+            xmin = 69.29397916666667 
+            xmax = 77.39433075334819 
+            text = "Sarawak bumi kenyalang merupakan negeri terbesar di Malaysia yang terkenal sebagai kepada beribu-ribu gulung." 
+        intervals [16]:
+            xmin = 77.39433075334819 
+            xmax = 81.7835625 
+            text = "Kenyalang bukan sahaja negeri yang terbesar di Malaysia" 
+        intervals [17]:
+            xmin = 81.7835625 
+            xmax = 85.9905625 
+            text = " bahkan juga merupakan negeri yang besar kawasan " 
+        intervals [18]:
+            xmin = 85.9905625 
+            xmax = 90.34525 
+            text = "luas sungainya panjang di Malaysia" 
+        intervals [19]:
+            xmin = 90.34525 
+            xmax = 92.06145833333333 
+            text = "Assalamualaikum" 
+        intervals [20]:
+            xmin = 92.06145833333333 
+            xmax = 96.05897916666666 
+            text = "Okey, waalaikumsalam. Terima kasih banyak-banyak mak cik." 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 96.05897916666666 
+        intervals: size = 20 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.24312065972222222 
+            text = "" 
+        intervals [2]:
+            xmin = 0.24312065972222222 
+            xmax = 4.666854166666667 
+            text = "A" 
+        intervals [3]:
+            xmin = 4.666854166666667 
+            xmax = 13.025916666666667 
+            text = "A" 
+        intervals [4]:
+            xmin = 13.025916666666667 
+            xmax = 14.4374375 
+            text = "" 
+        intervals [5]:
+            xmin = 14.4374375 
+            xmax = 20.92583333333333 
+            text = "A" 
+        intervals [6]:
+            xmin = 20.92583333333333 
+            xmax = 27.516187499999997 
+            text = "A" 
+        intervals [7]:
+            xmin = 27.516187499999997 
+            xmax = 28.35445833333333 
+            text = "" 
+        intervals [8]:
+            xmin = 28.35445833333333 
+            xmax = 31.290729166666665 
+            text = "S" 
+        intervals [9]:
+            xmin = 31.290729166666665 
+            xmax = 34.86077083333333 
+            text = "S" 
+        intervals [10]:
+            xmin = 34.86077083333333 
+            xmax = 40.20189583333333 
+            text = "S" 
+        intervals [11]:
+            xmin = 40.20189583333333 
+            xmax = 51.78895833333333 
+            text = "A" 
+        intervals [12]:
+            xmin = 51.78895833333333 
+            xmax = 55.881625 
+            text = "S" 
+        intervals [13]:
+            xmin = 55.881625 
+            xmax = 63.65416666666667 
+            text = "S" 
+        intervals [14]:
+            xmin = 63.65416666666667 
+            xmax = 69.29397916666667 
+            text = "S" 
+        intervals [15]:
+            xmin = 69.29397916666667 
+            xmax = 77.39433075334819 
+            text = "S" 
+        intervals [16]:
+            xmin = 77.39433075334819 
+            xmax = 81.7835625 
+            text = "S" 
+        intervals [17]:
+            xmin = 81.7835625 
+            xmax = 85.9905625 
+            text = "S" 
+        intervals [18]:
+            xmin = 85.9905625 
+            xmax = 90.34525 
+            text = "S" 
+        intervals [19]:
+            xmin = 90.34525 
+            xmax = 92.06145833333333 
+            text = "S" 
+        intervals [20]:
+            xmin = 92.06145833333333 
+            xmax = 96.05897916666666 
+            text = "A" 

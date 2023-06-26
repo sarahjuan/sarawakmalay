@@ -1,0 +1,376 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 184.85897916666667 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Sarawak" 
+        xmin = 0 
+        xmax = 184.85897916666667 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4857004559930515 
+            text = "" 
+        intervals [2]:
+            xmin = 0.4857004559930515 
+            xmax = 8.38822289374638 
+            text = "Hi. Nama kamek Sofia. Kamek mok temuduga kitak untuk menceritakan cerita traditional yang kitak tauk ataupun kitak minat. Boleh sik perkenalkan dirik kitak?" 
+        intervals [3]:
+            xmin = 8.38822289374638 
+            xmax = 9.002863527793862 
+            text = "" 
+        intervals [4]:
+            xmin = 9.002863527793862 
+            xmax = 16.83514132165605 
+            text = "Nama kamek Ganti binti Julaihi. Berumur 60 tahun dan berasal dari Kuching, Sarawak." 
+        intervals [5]:
+            xmin = 16.83514132165605 
+            xmax = 17.449781955703532 
+            text = "" 
+        intervals [6]:
+            xmin = 17.449781955703532 
+            xmax = 20.924036501537866 
+            text = "Soalan satu. Apakah nama cerita tradisional yang kitak tauk?" 
+        intervals [7]:
+            xmin = 20.924036501537866 
+            xmax = 21.85477803309548 
+            text = "" 
+        intervals [8]:
+            xmin = 21.85477803309548 
+            xmax = 27.456788383413947 
+            text = "Cerita traditional yang kamek tauk adalah sang kancil dengan buaya. 
+
+" 
+        intervals [9]:
+            xmin = 27.456788383413947 
+            xmax = 27.825572763842437 
+            text = "" 
+        intervals [10]:
+            xmin = 27.825572763842437 
+            xmax = 30.8285312901887 
+            text = "Soalan dua. Berapakah watak di dalam cerita ya?" 
+        intervals [11]:
+            xmin = 30.8285312901887 
+            xmax = 31.355366119372256 
+            text = "" 
+        intervals [12]:
+            xmin = 31.355366119372256 
+            xmax = 37.42556206890359 
+            text = "Ada dua watak dalam cerita tok iaitu sang kancil dan buaya sebagai watak utama. " 
+        intervals [13]:
+            xmin = 37.42556206890359 
+            xmax = 37.987519220032716 
+            text = "" 
+        intervals [14]:
+            xmin = 37.987519220032716 
+            xmax = 40.8499884585967 
+            text = "Soalan tiga. Bagaimanakah jalan cerita ya?" 
+        intervals [15]:
+            xmin = 40.8499884585967 
+            xmax = 41.517312575562535 
+            text = "" 
+        intervals [16]:
+            xmin = 41.517312575562535 
+            xmax = 97.6401905457294 
+            text = "Cerita tok bermula dengan sang kancil yang gik berjalan-jalan di dalam hutan mok carik makanan. Disebabkan kat kawasan tempat diam nya tek kurang makanan, sang kancil pun mok pergi carik makanan kat luar kawasan. Lepas nya dah kepak, lamak gilak berjalan carik makanan ya, akhirnya berjumpa juak kebun buah yang dah masak kat seberang sungai. Sang kancil pun terus carik idea macam ne cara nya mok limpas sungai ya. Alu nya nangga si boyak gik berjemur kat tebing sungai ya. Trus nya kelaka ngan si boyak ya tek. Nya gunakan akal nya pakey nya bulak si boyak tek dengan padah nya raja sulaiman suruh nya kira berapa ekor boyak dlm sungai ya sebab raja sulaiman ya mok berik hadiah dgn boyak-boyak ya tek. " 
+        intervals [17]:
+            xmin = 97.6401905457294 
+            xmax = 98.44800395047751 
+            text = "" 
+        intervals [18]:
+            xmin = 98.44800395047751 
+            xmax = 151.82520994122214 
+            text = "Si boyak dengar jak nama raja sulaiman lalu nya takut sebab nabi sulaiman dah diberik kebesaran dari Allah pakey memerintah semua mahluk di muka bumi tok. Trus si boyak ya tek ikut jak kata sang kancil dengan nunggah semua boyak yang ada kat siya dan sidak pun bersusun dari tebing sebelah tempat sang kancil sampe tebing seberang sungai. Sang kancil pun melompat-lompat atas boyak sambil kira boyak kat siya. Dah sampe kat tebing sebelah sungai tek, trus sang kancil gembira dapat makanan banyak kat kebun ya. Lepas nya dah berjaya bulak si boyak tek. Lepas ya si boyak pun berjanji nya sik kan lepaskan sang kancil lepas tok sebab dah manas kenak bulak macam ya." 
+        intervals [19]:
+            xmin = 151.82520994122214 
+            xmax = 152.3871670923513 
+            text = "" 
+        intervals [20]:
+            xmin = 152.3871670923513 
+            xmax = 156.11012270332498 
+            text = "Soalan empat. Apakah latar cerita yang digunakan?" 
+        intervals [21]:
+            xmin = 156.11012270332498 
+            xmax = 158.93746961994344 
+            text = "Berlatarkan di dalam hutan dan sungai. " 
+        intervals [22]:
+            xmin = 158.93746961994344 
+            xmax = 159.30625400037195 
+            text = "" 
+        intervals [23]:
+            xmin = 159.30625400037195 
+            xmax = 163.02922012660247 
+            text = "Soalan lima. Apakah pengajaran yang kitak dapat dari cerita ya?" 
+        intervals [24]:
+            xmin = 163.02922012660247 
+            xmax = 163.97752281913287 
+            text = "" 
+        intervals [25]:
+            xmin = 163.97752281913287 
+            xmax = 169.5653467857366 
+            text = "Pengajaran nya adalah iboh mudah gilak percaya perkataan orang lain macam ya jak." 
+        intervals [26]:
+            xmin = 169.5653467857366 
+            xmax = 170.25023206367524 
+            text = "" 
+        intervals [27]:
+            xmin = 170.25023206367524 
+            xmax = 175.79955893107544 
+            text = "Yang terakhir, soalan enam. Apakah yg kitak akan teringat mun terimbas kembali dengan cerita ya?" 
+        intervals [28]:
+            xmin = 175.79955893107544 
+            xmax = 176.4141995651229 
+            text = "" 
+        intervals [29]:
+            xmin = 176.4141995651229 
+            xmax = 184.85897916666667 
+            text = "Kamek paling teringat apabila sang kancil dapat bulak si boyak dengan cara dirikpun pake selesaikan masalahnya." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Malay" 
+        xmin = 0 
+        xmax = 184.85897916666667 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4857004559930515 
+            text = "" 
+        intervals [2]:
+            xmin = 0.4857004559930515 
+            xmax = 8.38822289374638 
+            text = "" 
+        intervals [3]:
+            xmin = 8.38822289374638 
+            xmax = 9.002863527793862 
+            text = "" 
+        intervals [4]:
+            xmin = 9.002863527793862 
+            xmax = 16.83514132165605 
+            text = "" 
+        intervals [5]:
+            xmin = 16.83514132165605 
+            xmax = 17.449781955703532 
+            text = "" 
+        intervals [6]:
+            xmin = 17.449781955703532 
+            xmax = 20.924036501537866 
+            text = "" 
+        intervals [7]:
+            xmin = 20.924036501537866 
+            xmax = 21.85477803309548 
+            text = "" 
+        intervals [8]:
+            xmin = 21.85477803309548 
+            xmax = 27.456788383413947 
+            text = "" 
+        intervals [9]:
+            xmin = 27.456788383413947 
+            xmax = 27.825572763842437 
+            text = "" 
+        intervals [10]:
+            xmin = 27.825572763842437 
+            xmax = 30.8285312901887 
+            text = "" 
+        intervals [11]:
+            xmin = 30.8285312901887 
+            xmax = 31.355366119372256 
+            text = "" 
+        intervals [12]:
+            xmin = 31.355366119372256 
+            xmax = 37.42556206890359 
+            text = "" 
+        intervals [13]:
+            xmin = 37.42556206890359 
+            xmax = 37.987519220032716 
+            text = "" 
+        intervals [14]:
+            xmin = 37.987519220032716 
+            xmax = 40.8499884585967 
+            text = "" 
+        intervals [15]:
+            xmin = 40.8499884585967 
+            xmax = 41.517312575562535 
+            text = "" 
+        intervals [16]:
+            xmin = 41.517312575562535 
+            xmax = 97.6401905457294 
+            text = "" 
+        intervals [17]:
+            xmin = 97.6401905457294 
+            xmax = 98.44800395047751 
+            text = "" 
+        intervals [18]:
+            xmin = 98.44800395047751 
+            xmax = 151.82520994122214 
+            text = "" 
+        intervals [19]:
+            xmin = 151.82520994122214 
+            xmax = 152.3871670923513 
+            text = "" 
+        intervals [20]:
+            xmin = 152.3871670923513 
+            xmax = 156.11012270332498 
+            text = "" 
+        intervals [21]:
+            xmin = 156.11012270332498 
+            xmax = 158.93746961994344 
+            text = "" 
+        intervals [22]:
+            xmin = 158.93746961994344 
+            xmax = 159.30625400037195 
+            text = "" 
+        intervals [23]:
+            xmin = 159.30625400037195 
+            xmax = 163.02922012660247 
+            text = "" 
+        intervals [24]:
+            xmin = 163.02922012660247 
+            xmax = 163.97752281913287 
+            text = "" 
+        intervals [25]:
+            xmin = 163.97752281913287 
+            xmax = 169.5653467857366 
+            text = "" 
+        intervals [26]:
+            xmin = 169.5653467857366 
+            xmax = 170.25023206367524 
+            text = "" 
+        intervals [27]:
+            xmin = 170.25023206367524 
+            xmax = 175.79955893107544 
+            text = "" 
+        intervals [28]:
+            xmin = 175.79955893107544 
+            xmax = 176.4141995651229 
+            text = "" 
+        intervals [29]:
+            xmin = 176.4141995651229 
+            xmax = 184.85897916666667 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 184.85897916666667 
+        intervals: size = 29 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4857004559930515 
+            text = "" 
+        intervals [2]:
+            xmin = 0.4857004559930515 
+            xmax = 8.38822289374638 
+            text = "S" 
+        intervals [3]:
+            xmin = 8.38822289374638 
+            xmax = 9.002863527793862 
+            text = "" 
+        intervals [4]:
+            xmin = 9.002863527793862 
+            xmax = 16.83514132165605 
+            text = "GJ" 
+        intervals [5]:
+            xmin = 16.83514132165605 
+            xmax = 17.449781955703532 
+            text = "" 
+        intervals [6]:
+            xmin = 17.449781955703532 
+            xmax = 20.924036501537866 
+            text = "S" 
+        intervals [7]:
+            xmin = 20.924036501537866 
+            xmax = 21.85477803309548 
+            text = "" 
+        intervals [8]:
+            xmin = 21.85477803309548 
+            xmax = 27.456788383413947 
+            text = "GJ" 
+        intervals [9]:
+            xmin = 27.456788383413947 
+            xmax = 27.825572763842437 
+            text = "" 
+        intervals [10]:
+            xmin = 27.825572763842437 
+            xmax = 30.8285312901887 
+            text = "S" 
+        intervals [11]:
+            xmin = 30.8285312901887 
+            xmax = 31.355366119372256 
+            text = "" 
+        intervals [12]:
+            xmin = 31.355366119372256 
+            xmax = 37.42556206890359 
+            text = "GJ" 
+        intervals [13]:
+            xmin = 37.42556206890359 
+            xmax = 37.987519220032716 
+            text = "" 
+        intervals [14]:
+            xmin = 37.987519220032716 
+            xmax = 40.8499884585967 
+            text = "S" 
+        intervals [15]:
+            xmin = 40.8499884585967 
+            xmax = 41.517312575562535 
+            text = "" 
+        intervals [16]:
+            xmin = 41.517312575562535 
+            xmax = 97.6401905457294 
+            text = "GJ" 
+        intervals [17]:
+            xmin = 97.6401905457294 
+            xmax = 98.44800395047751 
+            text = "" 
+        intervals [18]:
+            xmin = 98.44800395047751 
+            xmax = 151.82520994122214 
+            text = "GJ" 
+        intervals [19]:
+            xmin = 151.82520994122214 
+            xmax = 152.3871670923513 
+            text = "" 
+        intervals [20]:
+            xmin = 152.3871670923513 
+            xmax = 156.11012270332498 
+            text = "S" 
+        intervals [21]:
+            xmin = 156.11012270332498 
+            xmax = 158.93746961994344 
+            text = "GJ" 
+        intervals [22]:
+            xmin = 158.93746961994344 
+            xmax = 159.30625400037195 
+            text = "" 
+        intervals [23]:
+            xmin = 159.30625400037195 
+            xmax = 163.02922012660247 
+            text = "S" 
+        intervals [24]:
+            xmin = 163.02922012660247 
+            xmax = 163.97752281913287 
+            text = "" 
+        intervals [25]:
+            xmin = 163.97752281913287 
+            xmax = 169.5653467857366 
+            text = "GJ" 
+        intervals [26]:
+            xmin = 169.5653467857366 
+            xmax = 170.25023206367524 
+            text = "" 
+        intervals [27]:
+            xmin = 170.25023206367524 
+            xmax = 175.79955893107544 
+            text = "S" 
+        intervals [28]:
+            xmin = 175.79955893107544 
+            xmax = 176.4141995651229 
+            text = "" 
+        intervals [29]:
+            xmin = 176.4141995651229 
+            xmax = 184.85897916666667 
+            text = "GJ" 

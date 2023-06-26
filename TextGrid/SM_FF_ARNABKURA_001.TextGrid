@@ -1,0 +1,314 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 238.6346875 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Sarawak" 
+        xmin = 0 
+        xmax = 238.6346875 
+        intervals: size = 24 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.613454177800246 
+            text = "Hai, makseh sebab sudi maok di interview kamek. Mula-mula, boleh kamek tauk apa nama kitak? Umo? Latar belakang kitak lah." 
+        intervals [2]:
+            xmin = 9.613454177800246 
+            xmax = 11.007618978840183 
+            text = "" 
+        intervals [3]:
+            xmin = 11.007618978840183 
+            xmax = 25.963205026359503 
+            text = "Aok, sama-sama. Nama kamek Dayang Zu Najla Zahirah. Kamek asal dari Kuching, bapak kamek orang Saratok. Tapi nang diam di Kuching tok lah. Umm.. Umo kamek 21 tahun." 
+        intervals [4]:
+            xmin = 25.963205026359503 
+            xmax = 26.977143063479456 
+            text = "" 
+        intervals [5]:
+            xmin = 26.977143063479456 
+            xmax = 34.58492837349966 
+            text = "Umm.. Boleh kamek tauk cerita rakyat atau cerita.. cerita tradisional tentang Kuching lah yang dapat berik pengajaran kita?" 
+        intervals [6]:
+            xmin = 34.58492837349966 
+            xmax = 35.915722047219596 
+            text = "" 
+        intervals [7]:
+            xmin = 35.915722047219596 
+            xmax = 44.0220625 
+            text = "Mun cerita tradisional Kuching kamek sik berapa tauk. Tapi mun cerita rakyat ada lah tauk sikit-sikit." 
+        intervals [8]:
+            xmin = 44.0220625 
+            xmax = 47.19578271017908 
+            text = "Aok, sik apa. Cerita tentang apa ya?" 
+        intervals [9]:
+            xmin = 47.19578271017908 
+            xmax = 94.68816405711263 
+            text = "Cerita Sang Arnab dengan Kurak-kurak. Tauk kitak nak cerita ya? Dalam cerita tok, arnab ngajak kurak-kurak belombak berekot sapa dolok sampe, nya menang. Nya macam cabar si kurak-kurak tok lah sebab nya kan jalan lambat. Si kurak-kurak maok juak ekot cabaran ya pake buktikan dirik nya tek boleh. Tiba masa betanding, arnab pecut laju jak. Sampe nya kepak, lalulah nya rilek debah pokok. Pasya lamak rasa masa berlalu, kura-kurak temu arnab gik tido. Lalu nya teruskan jak jalan sampe ke garisan penamat. Last-last tek si kurak-kurak menang walaupun nya tek lambat, tapi maseh dapat menang melawan arnab yang berekot laju agik dari nya tek." 
+        intervals [10]:
+            xmin = 94.68816405711263 
+            xmax = 101.7281875 
+            text = "Yalahh, sik... sik gine-gine kurak tek menang, walapun nya lambat berjalan." 
+        intervals [11]:
+            xmin = 101.7281875 
+            xmax = 113.44926777545233 
+            text = "Aok.. Yalah pengajaran nya, jangan kita sombong dengan kekurangan orang. Kita siktauk nak apa jadi dengan kita bila kita bersikap bangga dengan kelebihan yang kita ada." 
+        intervals [12]:
+            xmin = 113.44926777545233 
+            xmax = 119.87390858740726 
+            text = "Aok. Seterusnya, ada sik permainan yang kitak suka dolok?" 
+        intervals [13]:
+            xmin = 119.87390858740726 
+            xmax = 121.33144451576719 
+            text = "" 
+        intervals [14]:
+            xmin = 121.33144451576719 
+            xmax = 152.58531250000001 
+            text = "Umm.. Kamek dolok suka main batu seremban. Nya ada duak, sigek pake 5 igek buah, sigek pake 7 igek buah, buah ya batu lah. Cara main nya senang jak, kitak mesti tangkap semua batu nak di lambong ya tek masok dalam tangan, sik boleh tergugok. Mun batu ya gugok kalah lah kitak. Lepasya suroh orang lain gik main. Kelak kitak mesti mula dari awal agik main. Nya ada step berapa banyak bilangan batu perlu di lambung." 
+        intervals [15]:
+            xmin = 152.58531250000001 
+            xmax = 153.73824764823812 
+            text = "" 
+        intervals [16]:
+            xmin = 153.73824764823812 
+            xmax = 159.01362500000002 
+            text = "Berapa orang perlu main permainan tok? Macam ne cara mok tauk sapa pemenang nya?" 
+        intervals [17]:
+            xmin = 159.01362500000002 
+            xmax = 177.69708381946586 
+            text = "Permainan tok nya sik kesah berapa orang main. Boleh juak dua orang, boleh juak dalam berkumpulan. Ada dalam 5 orang camya lah sigek kumpulan. Mun mok tauk sapa pemenang, kita kira jumlah berapa markah yang nya dapat sepanjang bermain ya." 
+        intervals [18]:
+            xmin = 177.69708381946586 
+            xmax = 180.352 
+            text = "Macamne kita maok kira markahnya?" 
+        intervals [19]:
+            xmin = 180.352 
+            xmax = 181.6260937133057 
+            text = "" 
+        intervals [20]:
+            xmin = 181.6260937133057 
+            xmax = 206.28201228505336 
+            text = "Lain tempat mungkin lain cara nya lah kira markah dengan cara main nya. Mun kamek orang kira markah nya berdasarkan berapa banyak jumlah batu nok dikumpol setiap pusingan. Tetapkan berapa markah perlu nya menang, contohnya 100 markah.. jadi sapa dolok sampe markah 100 ya nya menang sik kesahlah berapa banyak pusingan nya main, asalkan nya dolok sampe markah 100." 
+        intervals [21]:
+            xmin = 206.28201228505336 
+            xmax = 213.4990625 
+            text = "Ohh okay faham dah kamek. Kenak kitak pilih batu seremban sebagai permainan yang paling kitak suka?" 
+        intervals [22]:
+            xmin = 213.4990625 
+            xmax = 232.07601112326446 
+            text = "Sebab main tok nya macam mencabar kita. Kadang-kadang jenis batu pake orang main sik sama. Ada yang suka pake batu besar, ada yang suka batu kecik. Jadi, mun kumpulan ya tetapkan mok pake batu besar, susahlah sidak yang suka pake batu kecik ya tek nak bermain." 
+        intervals [23]:
+            xmin = 232.07601112326446 
+            xmax = 237.37827865849493 
+            text = "Ohh paduhal. Yajaklah oh pertanyaan dari kamek. Terima kasih luangkan masa dengan kamek." 
+        intervals [24]:
+            xmin = 237.37827865849493 
+            xmax = 238.6346875 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Malay" 
+        xmin = 0 
+        xmax = 238.6346875 
+        intervals: size = 24 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.613454177800246 
+            text = "" 
+        intervals [2]:
+            xmin = 9.613454177800246 
+            xmax = 11.007618978840183 
+            text = "" 
+        intervals [3]:
+            xmin = 11.007618978840183 
+            xmax = 25.963205026359503 
+            text = "" 
+        intervals [4]:
+            xmin = 25.963205026359503 
+            xmax = 26.977143063479456 
+            text = "" 
+        intervals [5]:
+            xmin = 26.977143063479456 
+            xmax = 34.58492837349966 
+            text = "" 
+        intervals [6]:
+            xmin = 34.58492837349966 
+            xmax = 35.915722047219596 
+            text = "" 
+        intervals [7]:
+            xmin = 35.915722047219596 
+            xmax = 44.0220625 
+            text = "" 
+        intervals [8]:
+            xmin = 44.0220625 
+            xmax = 47.19578271017908 
+            text = "" 
+        intervals [9]:
+            xmin = 47.19578271017908 
+            xmax = 94.68816405711263 
+            text = "" 
+        intervals [10]:
+            xmin = 94.68816405711263 
+            xmax = 101.7281875 
+            text = "" 
+        intervals [11]:
+            xmin = 101.7281875 
+            xmax = 113.44926777545233 
+            text = "" 
+        intervals [12]:
+            xmin = 113.44926777545233 
+            xmax = 119.87390858740726 
+            text = "" 
+        intervals [13]:
+            xmin = 119.87390858740726 
+            xmax = 121.33144451576719 
+            text = "" 
+        intervals [14]:
+            xmin = 121.33144451576719 
+            xmax = 152.58531250000001 
+            text = "" 
+        intervals [15]:
+            xmin = 152.58531250000001 
+            xmax = 153.73824764823812 
+            text = "" 
+        intervals [16]:
+            xmin = 153.73824764823812 
+            xmax = 159.01362500000002 
+            text = "" 
+        intervals [17]:
+            xmin = 159.01362500000002 
+            xmax = 177.69708381946586 
+            text = "" 
+        intervals [18]:
+            xmin = 177.69708381946586 
+            xmax = 180.352 
+            text = "" 
+        intervals [19]:
+            xmin = 180.352 
+            xmax = 181.6260937133057 
+            text = "" 
+        intervals [20]:
+            xmin = 181.6260937133057 
+            xmax = 206.28201228505336 
+            text = "" 
+        intervals [21]:
+            xmin = 206.28201228505336 
+            xmax = 213.4990625 
+            text = "" 
+        intervals [22]:
+            xmin = 213.4990625 
+            xmax = 232.07601112326446 
+            text = "" 
+        intervals [23]:
+            xmin = 232.07601112326446 
+            xmax = 237.37827865849493 
+            text = "" 
+        intervals [24]:
+            xmin = 237.37827865849493 
+            xmax = 238.6346875 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 238.6346875 
+        intervals: size = 24 
+        intervals [1]:
+            xmin = 0 
+            xmax = 9.613454177800246 
+            text = "Najwa" 
+        intervals [2]:
+            xmin = 9.613454177800246 
+            xmax = 11.007618978840183 
+            text = "" 
+        intervals [3]:
+            xmin = 11.007618978840183 
+            xmax = 25.963205026359503 
+            text = "Najla" 
+        intervals [4]:
+            xmin = 25.963205026359503 
+            xmax = 26.977143063479456 
+            text = "" 
+        intervals [5]:
+            xmin = 26.977143063479456 
+            xmax = 34.58492837349966 
+            text = "Najwa" 
+        intervals [6]:
+            xmin = 34.58492837349966 
+            xmax = 35.915722047219596 
+            text = "" 
+        intervals [7]:
+            xmin = 35.915722047219596 
+            xmax = 44.0220625 
+            text = "Najla" 
+        intervals [8]:
+            xmin = 44.0220625 
+            xmax = 47.19578271017908 
+            text = "Najwa" 
+        intervals [9]:
+            xmin = 47.19578271017908 
+            xmax = 94.68816405711263 
+            text = "Najla" 
+        intervals [10]:
+            xmin = 94.68816405711263 
+            xmax = 101.7281875 
+            text = "Najwa" 
+        intervals [11]:
+            xmin = 101.7281875 
+            xmax = 113.44926777545233 
+            text = "Najla" 
+        intervals [12]:
+            xmin = 113.44926777545233 
+            xmax = 119.87390858740726 
+            text = "Najwa" 
+        intervals [13]:
+            xmin = 119.87390858740726 
+            xmax = 121.33144451576719 
+            text = "" 
+        intervals [14]:
+            xmin = 121.33144451576719 
+            xmax = 152.58531250000001 
+            text = "Najla" 
+        intervals [15]:
+            xmin = 152.58531250000001 
+            xmax = 153.73824764823812 
+            text = "" 
+        intervals [16]:
+            xmin = 153.73824764823812 
+            xmax = 159.01362500000002 
+            text = "Najwa" 
+        intervals [17]:
+            xmin = 159.01362500000002 
+            xmax = 177.69708381946586 
+            text = "Najla" 
+        intervals [18]:
+            xmin = 177.69708381946586 
+            xmax = 180.352 
+            text = "Najwa" 
+        intervals [19]:
+            xmin = 180.352 
+            xmax = 181.6260937133057 
+            text = "" 
+        intervals [20]:
+            xmin = 181.6260937133057 
+            xmax = 206.28201228505336 
+            text = "Najla" 
+        intervals [21]:
+            xmin = 206.28201228505336 
+            xmax = 213.4990625 
+            text = "Najwa" 
+        intervals [22]:
+            xmin = 213.4990625 
+            xmax = 232.07601112326446 
+            text = "Najla" 
+        intervals [23]:
+            xmin = 232.07601112326446 
+            xmax = 237.37827865849493 
+            text = "Najwa" 
+        intervals [24]:
+            xmin = 237.37827865849493 
+            xmax = 238.6346875 
+            text = "" 
