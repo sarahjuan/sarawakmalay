@@ -6,7 +6,22 @@ The data consists of 38 conversations that have been transcribed using Transcrib
 We provide files:
 - wav
 - rttm
-- textgrid 
+- textgrid
+
+This data was experimented for a speaker diarizarion task, where it was used for evaluating our speaker diarization models. Our work was presented at the recent IALP 2023 in Singapore.
+
+Cite our work when this data is used:
+
+@INPROCEEDINGS{  <br />
+  10337314,  <br />
+  author={Rahim, Mohd Zulhafiz and Juan, Sarah Samson and Mohamad, Fitri Suraya},  <br />
+  booktitle={2023 International Conference on Asian Language Processing (IALP)},  <br />
+  title={Improving Speaker Diarization for Low-Resourced Sarawak Malay Language Conversational Speech Corpus},  <br />
+  year={2023},  <br />
+  pages={228-233},  <br />
+  keywords={Training;Oral communication;Data models;Usability;Speech processing;Testing;Speaker diarization;x-vectors;clustering;low-resource;auto-labeling;pseudo-labeling;unsupervised},  <br />
+  doi={10.1109/IALP61005.2023.10337314}}
+
 
 For further details:
 
