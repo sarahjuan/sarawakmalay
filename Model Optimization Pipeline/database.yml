@@ -1,0 +1,23 @@
+Databases:
+  # tell pyannote.database where to find AMI wav files.
+  # {uri} is a placeholder for the session name (eg. ES2004c).
+  # you might need to update this line to fit your own setup.
+  SarawakMalay: /content/drive/MyDrive/DiarDataset/wav/{uri}.wav
+
+Protocols:
+
+  SarawakMalay:
+    SpeakerDiarization:
+      only_words:
+        train:
+            uri: /content/drive/MyDrive/DiarDataset/train/list.txt
+            annotation: /content/drive/MyDrive/DiarDataset/train/rttm/{uri}.rttm
+            annotated: /content/drive/MyDrive/DiarDataset/train/uem/{uri}.uem
+        development:
+            uri: /content/drive/MyDrive/DiarDataset/dev/list.txt
+            annotation: /content/drive/MyDrive/DiarDataset/dev/rttm/{uri}.rttm
+            annotated: /content/drive/MyDrive/DiarDataset/dev/uem/{uri}.uem
+        test:
+            uri: /content/drive/MyDrive/DiarDataset/test/list.txt
+            annotation: /content/drive/MyDrive/DiarDataset/test/rttm/{uri}.rttm
+            annotated: /content/drive/MyDrive/DiarDataset/test/uem/{uri}.uem
